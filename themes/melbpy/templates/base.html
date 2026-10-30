@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,900;1,300;1,900&family=Lora:ital@0;1&display=swap">
+  <link rel="stylesheet" href="{{ SITEURL }}/pagefind/pagefind-component-ui.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css">
+  <link rel="icon" type="image/svg+xml" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/favicon.svg">
+  <style>
+{% for slug, name, colour in CATEGORIES %}
+    .cat-{{ slug }} { --base: {{ colour }}; }
+{% endfor %}
+  </style>
+</head>
+<body class="cat cat-{% block cat %}uncategorised{% endblock %}">
+  <div class="layout">
+    <header class="tl">
+      <div class="controls">
+        <button class="menu-btn" type="button" aria-label="Menu" aria-controls="sidebar" aria-expanded="false">☰</button>
+      </div>
+      <div class="menu cat cat-uncategorised">{{ "MENU.md"|markdown_file }}</div>
+      <div class="news">{{ "NEWS.md"|markdown_file }}</div>
+      <div class="v-space-large">
+        <a class="logo logo-a" href="{% block logo_href %}{{ SITEURL }}/{% endblock %}" aria-label="{% block logo_label %}{{ SITENAME }} home{% endblock %}">
+          {# Category-specific logo, falling back to the generic one (e.g. Uncategorised). #}
+          {% include ["svg/melbourne-python-logo-" ~ self.cat()|trim ~ "-light-bg.svg", "svg/melbourne-python-logo.svg"] %}
+        </a>
+      </div>
+    </header>
+
+    <div class="rule"></div>
+
+    <main class="bl"{% block main_attrs %}{% endblock %}>
+      <header class="page-head">{% block heading %}{% endblock %}</header>
+      <div class="page-body">
+        {% block content %}{% endblock %}
+        <div class="sponsors mobile-only v-space-large no-select" title="About our sponsors...">{{ "SPONSORS.md"|markdown_file }}</div>
+      </div>
+    </main>
+
+    <aside id="sidebar">
+      <div class="tr">
+        <a class="logo logo-b mobile-only" href="{{ SITEURL }}/" aria-label="{{ SITENAME }} home">
+          {% include "svg/melbpy-org-logo.svg" %}
+        </a>
+        <div class="sponsors desktop-only no-select" title="About our sponsors...">{{ "SPONSORS.md"|markdown_file }}</div>
+      </div>
+      <div class="br">
+        <div class="br-body">
+          <a class="logo logo-b desktop-only" href="{{ SITEURL }}/" aria-label="{{ SITENAME }} home">
+            {% include "svg/melbpy-org-logo.svg" %}
+          </a>
+          <div class="search"><pagefind-searchbox></pagefind-searchbox></div>
+          {% include "_sidebar.html" %}
+        </div>
+      </div>
+
+    </aside>
+
+    <footer class="site-foot">
+      <a class="logo logo-icon" href="{{ SITEURL }}/" aria-label="{{ SITENAME }} home">{% include "svg/melb-py-icon.svg" %}</a>
+      <div class="small-print">{{ "SMALL_PRINT.md"|markdown_file }}</div>
+    </footer>
+  </div>
+
+  <script src="{{ SITEURL }}/pagefind/pagefind-component-ui.js" type="module"></script>
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/menu.js"></script>
+</body>
+</html>

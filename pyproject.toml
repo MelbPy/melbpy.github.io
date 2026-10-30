@@ -1,0 +1,8 @@
+[project]
+name = "melbpy-www"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pagefind[bin]>=1.5.2",
+    "pelican[markdown]>=4.12.0",
+]

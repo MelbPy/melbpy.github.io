@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title|striptags }} — {{ SITENAME }}{% endblock %}
+{% block cat %}{{ article.category.slug }}{% endblock %}
+{% block logo_href %}{{ SITEURL }}/{{ article.category.url }}{% endblock %}
+{% block logo_label %}{{ article.category }} articles{% endblock %}
+{% block main_attrs %} data-pagefind-body{% endblock %}
+{% block heading %}
+<h1>{{ article.title }}</h1>
+<p class="meta">
+  <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+  {% for tag in article.tags %}· <a href="{{ SITEURL }}/{{ tag.url }}">#{{ tag }}</a> {% endfor %}
+</p>
+{% endblock %}
+{% block content %}
+<article>
+  {{ article.content }}
+</article>
+{% endblock %}

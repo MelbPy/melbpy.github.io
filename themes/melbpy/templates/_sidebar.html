@@ -1,0 +1,15 @@
+{% from "_cat_button.html" import cat_button with context %}
+
+<nav class="cat-buttons" aria-label="Categories">
+  {{ cat_button("meet-up", "Meet-up") }}
+{% for slug, name, colour in CATEGORIES if slug not in ("meet-up", "uncategorised") %}
+  {{ cat_button(slug, name) }}
+{% endfor %}
+</nav>
+
+<ul class="tag-list">
+  <li><b>Tags</b> &nbsp; </li>
+{% for tag, tag_articles in tags|sort %}
+  <li><a href="{{ SITEURL }}/{{ tag.url }}">#{{ tag }}</a></li>
+{% endfor %}
+</ul>
