@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}Archives — {{ SITENAME }}{% endblock %}
+{% block heading %}<h1>Archives</h1>{% endblock %}
+{% block content %}
+{% set articles = dates %}
+{% include "_article_list.html" %}
+{% endblock %}

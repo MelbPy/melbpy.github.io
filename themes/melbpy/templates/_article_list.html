@@ -1,0 +1,8 @@
+<ul class="article-list">
+{% for article in articles %}
+  <li class="cat cat-{{ article.category.slug }}">
+    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+  </li>
+{% endfor %}
+</ul>

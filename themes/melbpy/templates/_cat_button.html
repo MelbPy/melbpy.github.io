@@ -1,0 +1,15 @@
+{# One category row: coloured button plus article count. #}
+{% macro cat_button(slug, name) %}
+  {% set ns = namespace(cat=None, count=0) %}
+  {% for cat, cat_articles in categories if cat.slug == slug %}
+    {% set ns.cat = cat %}{% set ns.count = cat_articles|length %}
+  {% endfor %}
+  <div class="cat cat-{{ slug }} cat-row">
+  {% if ns.cat %}
+    <a class="cat-btn" href="{{ SITEURL }}/{{ ns.cat.url }}">{{ name }}</a>
+  {% else %}
+    <span class="cat-btn">{{ name }}</span>
+  {% endif %}
+    <span class="count">{{ ns.count }}</span>
+  </div>
+{% endmacro %}
