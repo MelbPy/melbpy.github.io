@@ -12,7 +12,7 @@ Edit the `content` or `themes/melbpy` directories, while running:
 make serve
 ```
 
-Don't accidentally edit the output directory if modifying, say, `style.css`, or
+Don't accidentally edit the `docs/` directory if modifying, say, `style.css`, or
 your changes will be immediately overwritten.
 
 ## Deployment
