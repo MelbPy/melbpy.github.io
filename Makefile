@@ -5,10 +5,10 @@ build:
 	$(MAKE) search
 
 search:
-	uv run python -m pagefind --site output
+	uv run python -m pagefind --site docs
 
 serve: build
 	uv run pelican content -s pelicanconf.py --listen --autoreload
 
 clean:
-	rm -rf output
+	rm -rf docs
