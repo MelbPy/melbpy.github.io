@@ -14,6 +14,8 @@ ARTICLE_PATHS = ["articles"]
 PAGE_PATHS = ["pages"]
 THEME = "themes/melbpy"
 
+OUTPUT_PATH = "docs/"
+
 DEFAULT_CATEGORY = "Uncategorised"
 USE_FOLDER_AS_CATEGORY = False
 DEFAULT_PAGINATION = False
