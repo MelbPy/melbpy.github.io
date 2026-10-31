@@ -1,4 +1,4 @@
-Title: The Melbourne Python Scene
+Title: Welcome to Melbourne
 Date: 01 November 2027
 Category: Meet-up
 Tags: melbourne, community
@@ -26,3 +26,4 @@ These organisations have featured at MelbPy, or are otherwise known to hire for 
 - Kraken
 - Kogan
 - MYOB
+- RMIT
