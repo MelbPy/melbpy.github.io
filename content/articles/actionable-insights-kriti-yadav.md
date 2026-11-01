@@ -7,12 +7,11 @@ Tags: talks, youtube, nlp, fabric, power-bi, llm
 <iframe src="https://www.youtube-nocookie.com/embed/VZ0D29gXBk8"
         title="Talk recording" allowfullscreen></iframe>
 
-## Kriti Yadav, Researcher, RMIT
+## Kriti Yadav, Researcher, RMIT; Data Science Intern, Telecommunications Industry Ombudsman
 
 <https://www.linkedin.com/in/kriti-yadav-data-science/>
 
-Kriti is a Data Science Intern at the Telecommunications Industry Ombudsman.
-She will show how unstructured customer complaints can be turned into reliable,
+Kriti will show how unstructured customer complaints can be turned into reliable,
 actionable insights using semantic-scoring and classification pipelines built
 with Python, sentence transformers, DistilBERT, Azure Machine Learning,
 Microsoft Fabric, Power BI and LLM-based weak supervision. She'll also cover

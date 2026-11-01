@@ -15,6 +15,7 @@ PAGE_PATHS = ["pages"]
 THEME = "themes/melbpy"
 
 OUTPUT_PATH = "docs/"
+DELETE_OUTPUT_DIRECTORY = True
 
 DEFAULT_CATEGORY = "Uncategorised"
 USE_FOLDER_AS_CATEGORY = False

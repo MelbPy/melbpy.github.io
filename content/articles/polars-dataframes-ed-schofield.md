@@ -1,0 +1,18 @@
+Title: Better DataFrames with the Polars DataFrame library
+Authors: Ed Schofield
+Date: 2025-08-31
+Category: Data & AI
+Tags: talks, youtube, polars, pandas, sql
+
+<iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
+        title="Talk recording" allowfullscreen></iframe>
+
+## Ed Schofield, Director, Python Charmers
+
+<https://www.linkedin.com/in/edschofield0/>
+
+The Pandas package has been dominant in Python for around 15 years but its design is now showing its age. There is now a vibrant and messy ecosystem of potential disruptors to the status quo for data analysis tasks in Python.
+
+This talk will help you make sense of the mess.
+
+(2nd Talk, 15:45)
