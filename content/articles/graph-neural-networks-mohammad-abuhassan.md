@@ -1,0 +1,16 @@
+Title: Graph Neural Networks
+Authors: Mohammad Abuhassan
+Date: 2024-02-02
+Category: Sci & Eng
+Tags: talks, youtube, graphs
+
+<iframe src="https://www.youtube-nocookie.com/embed/ycyknzQHN4U"
+        title="Talk recording" allowfullscreen></iframe>
+
+## Mohammad Abuhassan, Research Assistant, Deakin University
+
+<https://www.linkedin.com/in/mohammad-abuhassan-phd-a32676121/>
+
+A walkthrough of Graph neural networks and knowledge graphs using python.
+
+(2nd talk, 38:45)
