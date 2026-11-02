@@ -162,7 +162,10 @@ pagefind-searchbox { color-scheme: inherit; }
   .logo-a { width: 24rem; margin-right: 2rem; }
 }
 @media (min-width: 80rem) {
-  .logo-a { width: 31rem; margin-left: -7.25rem; }
+  .logo-a { width: 31rem; }
+}
+@media (min-width: 87rem) {
+  .logo-a { margin-left: -7.25rem; }
 }
 .logo-a svg { width: 100%; height: auto; }
 
