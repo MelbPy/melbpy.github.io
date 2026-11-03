@@ -94,6 +94,10 @@ b, strong, th, h1, h2, h3, h4, h5, h6 { font-weight: 900; }
 .v-space-large { margin-top: var(--v-space-large); }
 .v-space-small { margin-top: var(--v-space-small); }
 
+.two-column {
+  columns: 2 auto;
+}
+
 .no-select { selection: none; }
 
 #sidebar { display: contents; }
@@ -188,11 +192,10 @@ pagefind-searchbox { color-scheme: inherit; }
 .logo-header-icon { width: 40%; margin: var(--v-space-small) 0; }
 
 /* Footer: icon and small print, 10rem below the main column and sidebar. */
-.site-foot { grid-area: foot; align-self: start; margin-top: var(--v-space-large); padding: 0 1.5rem 1.25rem; }
+.site-foot { grid-area: foot; align-self: start; margin-top: var(--v-space-large); padding: 5rem 1.5rem 5rem; }
 .site-foot a { font-weight: 800; }
 .logo-icon { display: block; width: 3rem; margin: 0; }
 .logo-icon svg { width: 100%; height: auto; }
-.small-print { font-size: 1.1rem; }
 /* Sidebar body items: no margins or padding of their own, 2rem apart. */
 .br-body { display: flex; flex-direction: column; gap: 3rem; }
 .br-body > * { margin: 0; padding: 0; }
@@ -260,7 +263,7 @@ a.cat-btn:hover { filter: brightness(1.2); }
 .article-list { font-family: var(--font); list-style: none; padding: 0; }
 .article-list li { padding: 0.4rem 0 0.4rem 0; margin-bottom: 0.5rem; }
 .article-list li a { font-weight: 800; }
-.article-list time { display: block; color: var(--muted); font-size: 1.1rem; }
+.article-list time { color: var(--muted); }
 
 /* Phone: single column, sidebar becomes a slide-in drawer. */
 @media (max-width: 80rem) {

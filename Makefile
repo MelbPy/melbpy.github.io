@@ -4,6 +4,10 @@ build:
 	uv run pelican content -s pelicanconf.py
 	$(MAKE) search
 
+publish:
+	uv run pelican content -s publishconf.py
+	$(MAKE) search
+
 search:
 	uv run python -m pagefind --site docs
 

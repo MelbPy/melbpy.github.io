@@ -1,8 +1,10 @@
-Title: Graph Neural Networks
-Authors: Mohammad Abuhassan
-Date: 2024-02-02
-Category: Sci & Eng
-Tags: talks, youtube, graphs
+---
+category: Sci & Eng
+title: Graph Neural Networks
+authors: Mohammad Abuhassan
+date: 2024-02-02
+tags: [talks, youtube, graphs]
+---
 
 <iframe src="https://www.youtube-nocookie.com/embed/ycyknzQHN4U"
         title="Talk recording" allowfullscreen></iframe>

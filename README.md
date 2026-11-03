@@ -48,6 +48,8 @@ Note: Light-mode colours are generated in `pelicanconf.py` and the dark colours
 are derived in `style.css`. These colours have been sampled from the browser
 screen.
 
+- See <https://github.com/MelbPy/melbpy-identity>
+
 ## Markup
 
 Markdown files that work as partials and on all pages as part of the template

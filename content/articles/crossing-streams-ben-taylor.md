@@ -1,8 +1,10 @@
-Title: Crossing the Streams: Sand-boxing python applications
-Authors: Ben Taylor
-Date: 2025-05-06
-Category: Developers
-Tags: talks, youtube, education, sandbox, typescript, pypi
+---
+category: Developers
+title: "Crossing the Streams: Sand-boxing python applications"
+author: Ben Taylor
+date: 2025-05-06
+tags: [talks, youtube, education, sandbox, typescript, pypi]
+---
 
 <iframe src="https://www.youtube-nocookie.com/embed/PMrGzSAVydg"
         title="Talk recording" allowfullscreen></iframe>

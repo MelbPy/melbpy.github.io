@@ -1,36 +1,36 @@
-Title: Contact us
-Date: 01 November 2027
-Category: Meet-up
-Tags: contacts, community
+---
+category: Meet-up
+title: "Contact us"
+author: Nigel Chapman
+date: 2026-11-03
+description: "Contact organisers, volunteers, and ambassadors for the Melbourne Python Meetup"
 slug: contacts
+---
 
-## Core Team
+## Organisers
 
-The core team manages admin, events, and comms.
+Contact about admin and events:
 
-ADMIN:
+- <a href="https://www.linkedin.com/in/renaldigondosubroto" target="_blank">Renaldi Gondosubroto</a> – _founder_
+- <a href="https://www.linkedin.com/in/maria-sokolova-56514721" target="_blank">Maria Solokova</a>
 
-- New in 2027
+Contact about website and promo:
 
-EVENTS:
+- <a href="https://www.linkedin.com/in/nigel-chapman" target="_blank">Nigel Chapman</a>
 
-- Renaldi Gondosubroto – <a href="https://www.linkedin.com/in/renaldigondosubroto" target="_blank">LinkedIn</a>
+## Volunteers
 
-COMMS:
+Our volunteers help with events and promotion. Contact the organisers (above) to
+get involved.
 
-- Nigel Chapman – [Email](mailto:nigel@chapman.id.au), <a href="https://www.linkedin.com/in/nigel-chapman" target="_blank">LinkedIn</a>, <a href="https://@eukras.bsky.social" target="_blank">BlueSky</a> – _design, website, promotions_
+- <a href="https://www.linkedin.com/in/mahesh-pandey-169a60197" target="_blank">Mahesh Pandey</a>
+- <a href="https://www.linkedin.com/in/%F0%9F%8C%BB-su-myat-noe-pwint-b686976b/" target="_blank">Su Myat Noe Pwint</a>
+- <a href="https://www.linkedin.com/in/abhijeet-kumar-23898499" target="_blank">Abhijeet Kumar</a>
 
 ## Ambassadors
 
 Ambassadors are authorised to organise speakers for our meetups, and answer any
-other queries about MelbPy. Contact the Meetups Coordinator (above) to get
-involved. It's a great way to network.
+other queries about MelbPy. Contact the organisers to get involved. It's a great
+way to network.
 
-- ...
-
-## Volunteers
-
-Our volunteers help with events and promotion. Contact the Meetups Coordinator
-(above) to get involved.
-
-- ...
+- New in 2027

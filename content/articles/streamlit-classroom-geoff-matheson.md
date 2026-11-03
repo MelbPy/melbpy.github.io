@@ -1,8 +1,10 @@
-Title: Streamlit in the Secondary Classroom
-Authors: Geoff Matheson
-Date: 2026-04-23
-Category: Humanities
-Tags: talks, youtube, streamlit, github, education
+---
+category: Humanities
+title: "Streamlit in the Secondary Classroom"
+authors: Geoff Matheson
+date: 2026-04-23
+tags: [talks, youtube, streamlit, github, education]
+---
 
 <iframe src="https://www.youtube-nocookie.com/embed/2IbhfSgocLE"
         title="Talk recording" allowfullscreen></iframe>
