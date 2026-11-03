@@ -12,7 +12,7 @@ slug: contacts
 Contact about admin and events:
 
 - <a href="https://www.linkedin.com/in/renaldigondosubroto" target="_blank">Renaldi Gondosubroto</a> – _founder_
-- <a href="https://www.linkedin.com/in/maria-sokolova-56514721" target="_blank">Maria Solokova</a>
+- <a href="https://www.linkedin.com/in/maria-sokolova-56514721" target="_blank">Maria Sokolova</a>
 
 Contact about website and promo:
 
