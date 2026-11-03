@@ -1,22 +1,24 @@
-Title: Sponsors
-Date: 01 November 2027
-Category: Meet-up
-Tags: sponsors, community
+---
+category: Meet-up
+title: "Meet our Sponsors"
+author: Nigel Chapman
+date: 2026-11-03
+tags: [sponsors, community]
 slug: sponsors
+---
 
-The Melbourne Python Meetup is supported by our sponsors, who provide venues,
-food and drink, and more. Contact our [Core Team](/contacts.html) with any inquiries about
+The Melbourne Python Meetup is supported by sponsors who provide venues,
+food and drink, and more. Contact our [organisers](/contacts.html) with any inquiries about
 sponsorship.
 
-## Venue Sponsor
+## <a href="https://aws.amazon.com/local/australia" target="_blank">Amazon Web Services Australia</a>
 
-- <a href="https://www.judo.bank/" target="_blank">Judo Bank</a>
-- _Australia's Business Bank_
-
-## Food and Drinks Sponsor
-
-- <a href="https://aws.amazon.com/local/australia" target="_blank">Amazon Web Services Australia</a>
 - _Cloud Computing Services_
+
+## <a href="https://www.judo.bank/" target="_blank">Judo Bank</a>
+
+- _Australia's Business Bank_
+- Our **Venue** Sponsor
 
 ## Past Sponsors
 

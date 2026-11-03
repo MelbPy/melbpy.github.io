@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Melbourne Python Meetup</title><link href="https://melbpy.eukras.io/" rel="alternate"/><link href="https://melbpy.eukras.io/rss.xml" rel="self"/><id>https://melbpy.eukras.io/</id><updated>2026-11-03T00:00:00+11:00</updated><entry><title>Contact us</title><link href="https://melbpy.eukras.io/contacts.html" rel="alternate"/><published>2026-11-03T00:00:00+11:00</published><updated>2026-11-03T00:00:00+11:00</updated><author><name>Nigel Chapman</name></author><id>tag:melbpy.eukras.io,2026-11-03:/contacts.html</id><summary type="html">&lt;h2&gt;Organisers&lt;/h2&gt;
+&lt;p&gt;Contact about admin and events:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/renaldigondosubroto" target="_blank"&gt;Renaldi Gondosubroto&lt;/a&gt; – &lt;em&gt;founder&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/maria-sokolova-56514721" target="_blank"&gt;Maria Solokova&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Contact about website and promo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/nigel-chapman" target="_blank"&gt;Nigel Chapman&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Volunteers&lt;/h2&gt;
+&lt;p&gt;Our volunteers help with events and promotion. Contact the organisers (above) to
+get involved.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/mahesh-pandey-169a60197" target="_blank"&gt;Mahesh Pandey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/%F0%9F%8C%BB-su-myat-noe-pwint-b686976b/" target="_blank"&gt;Su Myat Noe Pwint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/abhijeet-kumar-23898499" target="_blank"&gt;Abhijeet Kumar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ambassadors&lt;/h2&gt;
+&lt;p&gt;Ambassadors are authorised to organise speakers for our …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Organisers&lt;/h2&gt;
+&lt;p&gt;Contact about admin and events:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/renaldigondosubroto" target="_blank"&gt;Renaldi Gondosubroto&lt;/a&gt; – &lt;em&gt;founder&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/maria-sokolova-56514721" target="_blank"&gt;Maria Solokova&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Contact about website and promo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/nigel-chapman" target="_blank"&gt;Nigel Chapman&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Volunteers&lt;/h2&gt;
+&lt;p&gt;Our volunteers help with events and promotion. Contact the organisers (above) to
+get involved.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/mahesh-pandey-169a60197" target="_blank"&gt;Mahesh Pandey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/%F0%9F%8C%BB-su-myat-noe-pwint-b686976b/" target="_blank"&gt;Su Myat Noe Pwint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/abhijeet-kumar-23898499" target="_blank"&gt;Abhijeet Kumar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ambassadors&lt;/h2&gt;
+&lt;p&gt;Ambassadors are authorised to organise speakers for our meetups, and answer any
+other queries about MelbPy. Contact the organisers to get involved. It's a great
+way to network.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New in 2027&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Meet-up"/></entry><entry><title>Python in Melbourne</title><link href="https://melbpy.eukras.io/melbourne.html" rel="alternate"/><published>2026-11-03T00:00:00+11:00</published><updated>2026-11-03T00:00:00+11:00</updated><author><name>Nigel Chapman</name></author><id>tag:melbpy.eukras.io,2026-11-03:/melbourne.html</id><summary type="html">&lt;p&gt;A little gazette of Python activity in Melbourne. &lt;a href="/contacts.html"&gt;Contact&lt;/a&gt; the organisers with anything we should add to this list.&lt;/p&gt;
+&lt;h2&gt;Community&lt;/h2&gt;
+&lt;p&gt;Some other organisations for Python developers in Melbourne. The &lt;em&gt;Melbourne
+Django&lt;/em&gt; and &lt;em&gt;Python Charmers&lt;/em&gt; groups have been defunct for a few years.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://djangogirls.org/en/melbourne/" target="_blank"&gt;DjangoGirls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://melb.dev" target="_blank"&gt;melb.dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://melbournemicropythonmeetup.github.io/" target="_blank"&gt;Melbourne MicroPython Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=" https://www.pythonaustralia.org/" target="_blank"&gt;Python Australia …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;A little gazette of Python activity in Melbourne. &lt;a href="/contacts.html"&gt;Contact&lt;/a&gt; the organisers with anything we should add to this list.&lt;/p&gt;
+&lt;h2&gt;Community&lt;/h2&gt;
+&lt;p&gt;Some other organisations for Python developers in Melbourne. The &lt;em&gt;Melbourne
+Django&lt;/em&gt; and &lt;em&gt;Python Charmers&lt;/em&gt; groups have been defunct for a few years.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://djangogirls.org/en/melbourne/" target="_blank"&gt;DjangoGirls&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://melb.dev" target="_blank"&gt;melb.dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://melbournemicropythonmeetup.github.io/" target="_blank"&gt;Melbourne MicroPython Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=" https://www.pythonaustralia.org/" target="_blank"&gt;Python Australia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Organisations&lt;/h2&gt;
+&lt;p&gt;The following companies are notable Python employers in Melbourne:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Amazon Web Services&lt;/li&gt;
+&lt;li&gt;Bureau of Meteorology&lt;/li&gt;
+&lt;li&gt;Kraken&lt;/li&gt;
+&lt;li&gt;Kogan&lt;/li&gt;
+&lt;li&gt;MYOB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition to those listed above, people from the following organisations have featured at MelbPy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ackama&lt;/li&gt;
+&lt;li&gt;ANZ&lt;/li&gt;
+&lt;li&gt;BHP&lt;/li&gt;
+&lt;li&gt;Coles&lt;/li&gt;
+&lt;li&gt;Deakin University&lt;/li&gt;
+&lt;li&gt;Dulux Group&lt;/li&gt;
+&lt;li&gt;GordonData&lt;/li&gt;
+&lt;li&gt;Judo Bank&lt;/li&gt;
+&lt;li&gt;KSUG.AI&lt;/li&gt;
+&lt;li&gt;NBN&lt;/li&gt;
+&lt;li&gt;Neo4j&lt;/li&gt;
+&lt;li&gt;Marqo&lt;/li&gt;
+&lt;li&gt;OneDigital&lt;/li&gt;
+&lt;li&gt;Orionx&lt;/li&gt;
+&lt;li&gt;PivotNine&lt;/li&gt;
+&lt;li&gt;Planet Innovation&lt;/li&gt;
+&lt;li&gt;Profound Information&lt;/li&gt;
+&lt;li&gt;PyCon Australia&lt;/li&gt;
+&lt;li&gt;Python Charmers&lt;/li&gt;
+&lt;li&gt;RMIT University&lt;/li&gt;
+&lt;li&gt;SEEK&lt;/li&gt;
+&lt;li&gt;SoftwareOne&lt;/li&gt;
+&lt;li&gt;Stile Education&lt;/li&gt;
+&lt;li&gt;Swinburne university&lt;/li&gt;
+&lt;li&gt;Thales&lt;/li&gt;
+&lt;li&gt;Thoughtworks&lt;/li&gt;
+&lt;li&gt;ZeroTwentyFifty&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Meet-up"/><category term="melbourne"/><category term="community"/></entry><entry><title>Meet our Sponsors</title><link href="https://melbpy.eukras.io/sponsors.html" rel="alternate"/><published>2026-11-03T00:00:00+11:00</published><updated>2026-11-03T00:00:00+11:00</updated><author><name>Nigel Chapman</name></author><id>tag:melbpy.eukras.io,2026-11-03:/sponsors.html</id><summary type="html">&lt;p&gt;The Melbourne Python Meetup is supported by sponsors who provide venues,
+food and drink, and more. Contact our &lt;a href="/contacts.html"&gt;organisers&lt;/a&gt; with any inquiries about
+sponsorship.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://aws.amazon.com/local/australia" target="_blank"&gt;Amazon Web Services Australia&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Cloud Computing Services&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;a href="https://www.judo.bank/" target="_blank"&gt;Judo Bank&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Australia's Business Bank&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Our &lt;strong&gt;Venue&lt;/strong&gt; Sponsor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Past Sponsors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://stileeducation.com/au/" target="_blank"&gt;Stile Education&lt;/a&gt; – &lt;em&gt;Australia’s #1 science curriculum&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://neo4j.com/" target="_blank"&gt;neo4j&lt;/a&gt; – &lt;em&gt;Graph …&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;The Melbourne Python Meetup is supported by sponsors who provide venues,
+food and drink, and more. Contact our &lt;a href="/contacts.html"&gt;organisers&lt;/a&gt; with any inquiries about
+sponsorship.&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://aws.amazon.com/local/australia" target="_blank"&gt;Amazon Web Services Australia&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Cloud Computing Services&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;a href="https://www.judo.bank/" target="_blank"&gt;Judo Bank&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Australia's Business Bank&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Our &lt;strong&gt;Venue&lt;/strong&gt; Sponsor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Past Sponsors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://stileeducation.com/au/" target="_blank"&gt;Stile Education&lt;/a&gt; – &lt;em&gt;Australia’s #1 science curriculum&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://neo4j.com/" target="_blank"&gt;neo4j&lt;/a&gt; – &lt;em&gt;Graph Intelligence Platform&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://justdigitalpeople.com.au" target="_blank"&gt;Just Digital People&lt;/a&gt; – &lt;em&gt;Need digital talent? We can help&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Meet-up"/><category term="sponsors"/><category term="community"/></entry><entry><title>From RAG to Agentic RAG &amp; Fine-Tuning: A Practical Journey</title><link href="https://melbpy.eukras.io/from-rag-to-agentic-rag-fine-tuning-a-practical-journey.html" rel="alternate"/><published>2026-08-27T00:00:00+10:00</published><updated>2026-08-27T00:00:00+10:00</updated><author><name>Sahil Devkota</name></author><id>tag:melbpy.eukras.io,2026-08-27:/from-rag-to-agentic-rag-fine-tuning-a-practical-journey.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/VZ0D29gXBk8"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Sahil Devkota, Full Stack Developer&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/sahil-bahadur-devkota-b874a8306/"&gt;https://www.linkedin.com/in/sahil-bahadur-devkota-b874a8306/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sahil starts where a lot of us have: an AI app that kept hallucinating. He'll
+trace the path from plain RAG through fine-tuning experiments across different
+models, and explain why he landed back in the RAG world — just a …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/VZ0D29gXBk8"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Sahil Devkota, Full Stack Developer&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/sahil-bahadur-devkota-b874a8306/"&gt;https://www.linkedin.com/in/sahil-bahadur-devkota-b874a8306/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sahil starts where a lot of us have: an AI app that kept hallucinating. He'll
+trace the path from plain RAG through fine-tuning experiments across different
+models, and explain why he landed back in the RAG world — just a far more
+agentic version of it. Expect a walkthrough of the actual Jupyter notebook, the
+retrieval logic, the results, and a clear sense of when to reach for which
+approach.&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="intro"/><category term="rag"/></entry><entry><title>Turning Customer Complaints into Actionable Insights with AI &amp; NLP</title><link href="https://melbpy.eukras.io/turning-customer-complaints-into-actionable-insights-with-ai-nlp.html" rel="alternate"/><published>2026-08-27T00:00:00+10:00</published><updated>2026-08-27T00:00:00+10:00</updated><author><name>Kriti Yadav</name></author><id>tag:melbpy.eukras.io,2026-08-27:/turning-customer-complaints-into-actionable-insights-with-ai-nlp.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/VZ0D29gXBk8"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Kriti Yadav, Researcher, RMIT; Data Science Intern, Telecommunications Industry Ombudsman&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/kriti-yadav-data-science/"&gt;https://www.linkedin.com/in/kriti-yadav-data-science/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kriti will show how unstructured customer complaints can be turned into reliable,
+actionable insights using semantic-scoring and classification pipelines built
+with Python, sentence transformers, DistilBERT, Azure Machine Learning,
+Microsoft Fabric, Power BI and LLM-based …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/VZ0D29gXBk8"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Kriti Yadav, Researcher, RMIT; Data Science Intern, Telecommunications Industry Ombudsman&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/kriti-yadav-data-science/"&gt;https://www.linkedin.com/in/kriti-yadav-data-science/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kriti will show how unstructured customer complaints can be turned into reliable,
+actionable insights using semantic-scoring and classification pipelines built
+with Python, sentence transformers, DistilBERT, Azure Machine Learning,
+Microsoft Fabric, Power BI and LLM-based weak supervision. She'll also cover
+the human-in-the-loop governance framework, the limitations she hit, and
+practical recommendations for building trustworthy AI classification systems.&lt;/p&gt;
+&lt;p&gt;(Talk #2, 32:20)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="nlp"/><category term="fabric"/><category term="power-bi"/><category term="llm"/></entry><entry><title>Renegotiating the Social Contract for Free Software</title><link href="https://melbpy.eukras.io/renegotiating-the-social-contract-for-free-software.html" rel="alternate"/><published>2026-07-23T00:00:00+10:00</published><updated>2026-07-23T00:00:00+10:00</updated><author><name>Justin Warren</name></author><id>tag:melbpy.eukras.io,2026-07-23:/renegotiating-the-social-contract-for-free-software.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Justin Warren, Principal Analyst/Founder, PivotNine&lt;/h2&gt;
+&lt;p&gt;This talk explores the social contract of free and open source software in light of recent events, using Elinor Ostrom's work on common pool resources, the Tyrant Test, corporate intentionality, and Stafford Beer's "the purpose of a system is what it does" as lenses …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Justin Warren, Principal Analyst/Founder, PivotNine&lt;/h2&gt;
+&lt;p&gt;This talk explores the social contract of free and open source software in light of recent events, using Elinor Ostrom's work on common pool resources, the Tyrant Test, corporate intentionality, and Stafford Beer's "the purpose of a system is what it does" as lenses.&lt;/p&gt;
+&lt;p&gt;(2nd talk, 40:45)&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="open-source"/><category term="community"/><category term="society"/></entry><entry><title>The Shape of Suspicious Behavior: Anomaly Detection with Graphs</title><link href="https://melbpy.eukras.io/the-shape-of-suspicious-behavior-anomaly-detection-with-graphs.html" rel="alternate"/><published>2026-07-23T00:00:00+10:00</published><updated>2026-07-23T00:00:00+10:00</updated><author><name>Samko Yun</name></author><id>tag:melbpy.eukras.io,2026-07-23:/the-shape-of-suspicious-behavior-anomaly-detection-with-graphs.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Samko Yun, Senior Solutions Engineer, Neo4j&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/samkoyun/"&gt;https://www.linkedin.com/in/samkoyun/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Samko explores how graph technology can uncover suspicious behaviour such as
+fraud, money laundering, account sharing, and coordinated activity. Using
+practical examples and lessons from real-world projects, we’ll look at how
+graphs help reveal patterns that traditional …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Samko Yun, Senior Solutions Engineer, Neo4j&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/samkoyun/"&gt;https://www.linkedin.com/in/samkoyun/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Samko explores how graph technology can uncover suspicious behaviour such as
+fraud, money laundering, account sharing, and coordinated activity. Using
+practical examples and lessons from real-world projects, we’ll look at how
+graphs help reveal patterns that traditional approaches often miss.&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="graphs"/><category term="fraud"/></entry><entry><title>Streamlit in the Secondary Classroom</title><link href="https://melbpy.eukras.io/streamlit-in-the-secondary-classroom.html" rel="alternate"/><published>2026-04-23T00:00:00+10:00</published><updated>2026-04-23T00:00:00+10:00</updated><author><name>Geoff Matheson</name></author><id>tag:melbpy.eukras.io,2026-04-23:/streamlit-in-the-secondary-classroom.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/2IbhfSgocLE"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Geoff Matheson, Learning Specialist, Heathmont College; Digital Technologies Subject Matter Expert, Department of Education&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/geoff-matheson-735a87287/"&gt;https://www.linkedin.com/in/geoff-matheson-735a87287/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session, Geoff will share his experience using Streamlit and GitHub Codespaces to teach Python to Year 10 and VCE Data Analytics Year 12 students, covering what made it …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/2IbhfSgocLE"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Geoff Matheson, Learning Specialist, Heathmont College; Digital Technologies Subject Matter Expert, Department of Education&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/geoff-matheson-735a87287/"&gt;https://www.linkedin.com/in/geoff-matheson-735a87287/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session, Geoff will share his experience using Streamlit and GitHub Codespaces to teach Python to Year 10 and VCE Data Analytics Year 12 students, covering what made it work, the obstacles to watch out for, and how quick-reward tools can drive engagement in secondary education.&lt;/p&gt;</content><category term="Humanities"/><category term="talks"/><category term="youtube"/><category term="streamlit"/><category term="github"/><category term="education"/></entry><entry><title>Better DataFrames with the Polars DataFrame library</title><link href="https://melbpy.eukras.io/better-dataframes-with-the-polars-dataframe-library.html" rel="alternate"/><published>2025-08-31T00:00:00+10:00</published><updated>2025-08-31T00:00:00+10:00</updated><author><name>Ed Schofield</name></author><id>tag:melbpy.eukras.io,2025-08-31:/better-dataframes-with-the-polars-dataframe-library.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Ed Schofield, Director, Python Charmers&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/edschofield0/"&gt;https://www.linkedin.com/in/edschofield0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Pandas package has been dominant in Python for around 15 years but its design is now showing its age. There is now a vibrant and messy ecosystem of potential disruptors to the status quo for data analysis tasks …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Ed Schofield, Director, Python Charmers&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/edschofield0/"&gt;https://www.linkedin.com/in/edschofield0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Pandas package has been dominant in Python for around 15 years but its design is now showing its age. There is now a vibrant and messy ecosystem of potential disruptors to the status quo for data analysis tasks in Python.&lt;/p&gt;
+&lt;p&gt;This talk will help you make sense of the mess.&lt;/p&gt;
+&lt;p&gt;(2nd Talk, 15:45)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="polars"/><category term="pandas"/><category term="sql"/></entry><entry><title>Python Design Patterns</title><link href="https://melbpy.eukras.io/python-design-patterns.html" rel="alternate"/><published>2025-08-21T00:00:00+10:00</published><updated>2025-08-21T00:00:00+10:00</updated><author><name>Akshat Soni</name></author><id>tag:melbpy.eukras.io,2025-08-21:/python-design-patterns.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Akshat Soni, Senior Consultant in GenAI and Python&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/akshatsoni64/"&gt;https://www.linkedin.com/in/akshatsoni64/&lt;/a&gt;&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="patterns"/></entry><entry><title>Crossing the Streams: Sand-boxing python applications</title><link href="https://melbpy.eukras.io/crossing-the-streams-sand-boxing-python-applications.html" rel="alternate"/><published>2025-05-06T00:00:00+10:00</published><updated>2025-05-06T00:00:00+10:00</updated><author><name>Ben Taylor</name></author><id>tag:melbpy.eukras.io,2025-05-06:/crossing-the-streams-sand-boxing-python-applications.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PMrGzSAVydg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Ben Taylor, Product Engineering Team Lead, Stile Education&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/taybenlor/"&gt;https://www.linkedin.com/in/taybenlor/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ben, a software engineer passionate about EdTech, will share his experience of adapting the Runno sandbox, originally written in TypeScript for browser environments, into a Python package. Over the holidays, Ben released this tool to PyPI …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PMrGzSAVydg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Ben Taylor, Product Engineering Team Lead, Stile Education&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/taybenlor/"&gt;https://www.linkedin.com/in/taybenlor/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ben, a software engineer passionate about EdTech, will share his experience of adapting the Runno sandbox, originally written in TypeScript for browser environments, into a Python package. Over the holidays, Ben released this tool to PyPI, enabling developers to safely run untrusted code from various languages directly within Python. This talk will cover the challenges of bridging languages, the importance of sandboxing and AI workflows, and how this tool can enhance projects involving LLMs and interactive learning environments.&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="education"/><category term="sandbox"/><category term="typescript"/><category term="pypi"/></entry><entry><title>Graph Neural Networks</title><link href="https://melbpy.eukras.io/graph-neural-networks.html" rel="alternate"/><published>2024-02-02T00:00:00+11:00</published><updated>2024-02-02T00:00:00+11:00</updated><author><name>Mohammad Abuhassan</name></author><id>tag:melbpy.eukras.io,2024-02-02:/graph-neural-networks.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/ycyknzQHN4U"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Mohammad Abuhassan, Research Assistant, Deakin University&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/mohammad-abuhassan-phd-a32676121/"&gt;https://www.linkedin.com/in/mohammad-abuhassan-phd-a32676121/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A walkthrough of Graph neural networks and knowledge graphs using python.&lt;/p&gt;
+&lt;p&gt;(2nd talk, 38:45)&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="graphs"/></entry><entry><title>Migrating COBOL data to PostgreSQL using Python and Django</title><link href="https://melbpy.eukras.io/migrating-cobol-data-to-postgresql-using-python-and-django.html" rel="alternate"/><published>2024-02-02T00:00:00+11:00</published><updated>2024-02-02T00:00:00+11:00</updated><author><name>Alan Perkins</name></author><id>tag:melbpy.eukras.io,2024-02-02:/migrating-cobol-data-to-postgresql-using-python-and-django.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/ycyknzQHN4U"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Alan Perkins, Founder, Profound Information&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/alanperkins/"&gt;https://www.linkedin.com/in/alanperkins/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk will cover the approach and challenges faced in migrating data from a 42 year old COBOL system. The resulting python application processed between 150 million and a billion records every day for over four years.&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="django"/><category term="cobol"/><category term="sql"/></entry></feed>

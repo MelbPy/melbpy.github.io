@@ -1,8 +1,10 @@
-Title: Turning Customer Complaints into Actionable Insights with AI & NLP
-Authors: Kriti Yadav
-Date: 2026-08-27
-Category: Data & AI
-Tags: talks, youtube, nlp, fabric, power-bi, llm
+---
+category: Data & AI
+title: "Turning Customer Complaints into Actionable Insights with AI & NLP"
+author: Kriti Yadav
+date: 2026-08-27
+tags: [talks, youtube, nlp, fabric, power-bi, llm]
+---
 
 <iframe src="https://www.youtube-nocookie.com/embed/VZ0D29gXBk8"
         title="Talk recording" allowfullscreen></iframe>

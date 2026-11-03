@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  {% block meta %}
+  <meta name="description" content="{{ SITE_DESCRIPTION }}">
+  <meta property="og:site_name" content="{{ SITENAME }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ SITENAME }}">
+  <meta property="og:description" content="{{ SITE_DESCRIPTION }}">
+  {% endblock %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,900;1,300;1,900&family=Lora:ital@0;1&display=swap">

@@ -1,5 +1,19 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title|striptags }} — {{ SITENAME }}{% endblock %}
+{% block meta %}
+{% set desc = (article.description or article.summary)|striptags|trim|truncate(160) %}
+  <meta name="description" content="{{ desc }}">
+{% if article.tags %}<meta name="keywords" content="{{ article.tags|join(', ') }}">{% endif %}
+{% for a in article.authors %}<meta name="author" content="{{ a }}">{% endfor %}
+  <meta property="og:site_name" content="{{ SITENAME }}">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ article.title|striptags }}">
+  <meta property="og:description" content="{{ desc }}">
+  <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}">
+  <meta property="article:published_time" content="{{ article.date.isoformat() }}">
+{% if article.image %}<meta property="og:image" content="{{ SITEURL }}/{{ article.image }}">{% endif %}
+  <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+{% endblock %}
 {% block cat %}{{ article.category.slug }}{% endblock %}
 {% block logo_href %}{{ SITEURL }}/{{ article.category.url }}{% endblock %}
 {% block logo_label %}{{ article.category }} articles{% endblock %}
@@ -7,6 +21,7 @@
 {% block heading %}
 <h1>{{ article.title }}</h1>
 <p class="meta">
+  {% if article.author %}{{ article.author }} ·{% endif %}
   <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
   {% for tag in article.tags %}· <a href="{{ SITEURL }}/{{ tag.url }}">#{{ tag }}</a> {% endfor %}
 </p>

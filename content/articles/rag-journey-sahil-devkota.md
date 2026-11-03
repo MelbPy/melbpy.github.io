@@ -1,8 +1,10 @@
-Title: From RAG to Agentic RAG & Fine-Tuning: A Practical Journey
-Authors: Sahil Devkota
-Date: 2026-08-27
-Category: Data & AI
-Tags: talks, youtube, intro, rag
+---
+category: Data & AI
+title: "From RAG to Agentic RAG & Fine-Tuning: A Practical Journey"
+authors: Sahil Devkota
+date: 2026-08-27
+tags: [talks, youtube, intro, rag]
+---
 
 <iframe src="https://www.youtube-nocookie.com/embed/VZ0D29gXBk8"
         title="Talk recording" allowfullscreen></iframe>
@@ -17,5 +19,3 @@ models, and explain why he landed back in the RAG world — just a far more
 agentic version of it. Expect a walkthrough of the actual Jupyter notebook, the
 retrieval logic, the results, and a clear sense of when to reach for which
 approach.
-
-(Talk #1)

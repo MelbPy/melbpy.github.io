@@ -1,8 +1,10 @@
-Title: Python Design Patterns
-Authors: Akshat Soni
-Date: 2025-08-21
-Category: Developers
-Tags: talks, youtube, patterns
+---
+category: Developers
+title: "Python Design Patterns"
+author: Akshat Soni
+date: 2025-08-21
+tags: [talks, youtube, patterns]
+---
 
 <iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
         title="Talk recording" allowfullscreen></iframe>

@@ -1,8 +1,10 @@
-Title: Better DataFrames with the Polars DataFrame library
-Authors: Ed Schofield
-Date: 2025-08-31
-Category: Data & AI
-Tags: talks, youtube, polars, pandas, sql
+---
+category: Data & AI
+title: "Better DataFrames with the Polars DataFrame library"
+author: Ed Schofield
+date: 2025-08-31
+tags: [talks, youtube, polars, pandas, sql]
+---
 
 <iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
         title="Talk recording" allowfullscreen></iframe>

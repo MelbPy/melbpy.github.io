@@ -3,8 +3,9 @@ from pathlib import Path
 import markdown
 from pelican.settings import DEFAULT_CONFIG
 
-SITENAME = "MelbPy"
+SITENAME = "The Melbourne Python Meetup"
 SITEURL = ""
+SITE_DESCRIPTION = "Meet up and make things: the Melbourne Python user group."
 AUTHOR = "MelbPy"
 TIMEZONE = "Australia/Melbourne"
 DEFAULT_LANG = "en"
@@ -16,6 +17,12 @@ THEME = "themes/melbpy"
 
 OUTPUT_PATH = "docs/"
 DELETE_OUTPUT_DIRECTORY = True
+INDEX_SAVE_AS = "latest.html"
+
+DATE_FORMATS = {
+    "en": "%d %b %Y",
+}
+
 
 DEFAULT_CATEGORY = "Uncategorised"
 USE_FOLDER_AS_CATEGORY = False
@@ -26,7 +33,7 @@ DIRECT_TEMPLATES = ["categories", "tags", "archives"]
 AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
 
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = "rss.xml"
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
