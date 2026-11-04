@@ -11,6 +11,8 @@ tags: [talks, youtube, open-source, community, society]
 
 ## Justin Warren, Principal Analyst/Founder, PivotNine
 
+<https://www.linkedin.com/in/justinwarren/>
+
 This talk explores the social contract of free and open source software in light of recent events, using Elinor Ostrom's work on common pool resources, the Tyrant Test, corporate intentionality, and Stafford Beer's "the purpose of a system is what it does" as lenses.
 
-(2nd talk, 40:45)
+(Starts at 40:45)

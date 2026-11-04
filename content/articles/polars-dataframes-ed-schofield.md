@@ -17,4 +17,4 @@ The Pandas package has been dominant in Python for around 15 years but its desig
 
 This talk will help you make sense of the mess.
 
-(2nd Talk, 15:45)
+(Starts at 15:45)

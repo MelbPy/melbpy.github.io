@@ -20,4 +20,4 @@ Microsoft Fabric, Power BI and LLM-based weak supervision. She'll also cover
 the human-in-the-loop governance framework, the limitations she hit, and
 practical recommendations for building trustworthy AI classification systems.
 
-(Talk #2, 32:20)
+(Starts at 32:20)
