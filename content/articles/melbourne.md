@@ -37,6 +37,7 @@ In addition to those listed above, people from the following organisations have 
 - Coles
 - Deakin University
 - Dulux Group
+- Google Cloud
 - GordonData
 - Judo Bank
 - KSUG.AI

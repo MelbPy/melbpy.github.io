@@ -15,4 +15,4 @@ tags: [talks, youtube, graphs]
 
 A walkthrough of Graph neural networks and knowledge graphs using python.
 
-(2nd talk, 38:45)
+(Starts at 38:45)

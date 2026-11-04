@@ -77,6 +77,7 @@ Django&lt;/em&gt; and &lt;em&gt;Python Charmers&lt;/em&gt; groups have been defu
 &lt;li&gt;Coles&lt;/li&gt;
 &lt;li&gt;Deakin University&lt;/li&gt;
 &lt;li&gt;Dulux Group&lt;/li&gt;
+&lt;li&gt;Google Cloud&lt;/li&gt;
 &lt;li&gt;GordonData&lt;/li&gt;
 &lt;li&gt;Judo Bank&lt;/li&gt;
 &lt;li&gt;KSUG.AI&lt;/li&gt;
@@ -166,16 +167,18 @@ with Python, sentence transformers, DistilBERT, Azure Machine Learning,
 Microsoft Fabric, Power BI and LLM-based weak supervision. She'll also cover
 the human-in-the-loop governance framework, the limitations she hit, and
 practical recommendations for building trustworthy AI classification systems.&lt;/p&gt;
-&lt;p&gt;(Talk #2, 32:20)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="nlp"/><category term="fabric"/><category term="power-bi"/><category term="llm"/></entry><entry><title>Renegotiating the Social Contract for Free Software</title><link href="https://melbpy.github.io/renegotiating-the-social-contract-for-free-software.html" rel="alternate"/><published>2026-07-23T00:00:00+10:00</published><updated>2026-07-23T00:00:00+10:00</updated><author><name>Justin Warren</name></author><id>tag:melbpy.github.io,2026-07-23:/renegotiating-the-social-contract-for-free-software.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
+&lt;p&gt;(Starts at 32:20)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="nlp"/><category term="fabric"/><category term="power-bi"/><category term="llm"/></entry><entry><title>Renegotiating the Social Contract for Free Software</title><link href="https://melbpy.github.io/renegotiating-the-social-contract-for-free-software.html" rel="alternate"/><published>2026-07-23T00:00:00+10:00</published><updated>2026-07-23T00:00:00+10:00</updated><author><name>Justin Warren</name></author><id>tag:melbpy.github.io,2026-07-23:/renegotiating-the-social-contract-for-free-software.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Justin Warren, Principal Analyst/Founder, PivotNine&lt;/h2&gt;
-&lt;p&gt;This talk explores the social contract of free and open source software in light of recent events, using Elinor Ostrom's work on common pool resources, the Tyrant Test, corporate intentionality, and Stafford Beer's "the purpose of a system is what it does" as lenses …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/justinwarren/"&gt;https://www.linkedin.com/in/justinwarren/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk explores the social contract of free and open source software in light of recent events, using Elinor Ostrom's work on common pool resources, the Tyrant Test, corporate intentionality, and Stafford Beer's "the purpose of a system …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Justin Warren, Principal Analyst/Founder, PivotNine&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/justinwarren/"&gt;https://www.linkedin.com/in/justinwarren/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This talk explores the social contract of free and open source software in light of recent events, using Elinor Ostrom's work on common pool resources, the Tyrant Test, corporate intentionality, and Stafford Beer's "the purpose of a system is what it does" as lenses.&lt;/p&gt;
-&lt;p&gt;(2nd talk, 40:45)&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="open-source"/><category term="community"/><category term="society"/></entry><entry><title>The Shape of Suspicious Behavior: Anomaly Detection with Graphs</title><link href="https://melbpy.github.io/the-shape-of-suspicious-behavior-anomaly-detection-with-graphs.html" rel="alternate"/><published>2026-07-23T00:00:00+10:00</published><updated>2026-07-23T00:00:00+10:00</updated><author><name>Samko Yun</name></author><id>tag:melbpy.github.io,2026-07-23:/the-shape-of-suspicious-behavior-anomaly-detection-with-graphs.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
+&lt;p&gt;(Starts at 40:45)&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="open-source"/><category term="community"/><category term="society"/></entry><entry><title>The Shape of Suspicious Behavior: Anomaly Detection with Graphs</title><link href="https://melbpy.github.io/the-shape-of-suspicious-behavior-anomaly-detection-with-graphs.html" rel="alternate"/><published>2026-07-23T00:00:00+10:00</published><updated>2026-07-23T00:00:00+10:00</updated><author><name>Samko Yun</name></author><id>tag:melbpy.github.io,2026-07-23:/the-shape-of-suspicious-behavior-anomaly-detection-with-graphs.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/08gNphMRPLo"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Samko Yun, Senior Solutions Engineer, Neo4j&lt;/h2&gt;
@@ -191,7 +194,29 @@ graphs help reveal patterns that traditional …&lt;/p&gt;</summary><content typ
 &lt;p&gt;Samko explores how graph technology can uncover suspicious behaviour such as
 fraud, money laundering, account sharing, and coordinated activity. Using
 practical examples and lessons from real-world projects, we’ll look at how
-graphs help reveal patterns that traditional approaches often miss.&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="graphs"/><category term="fraud"/></entry><entry><title>Streamlit in the Secondary Classroom</title><link href="https://melbpy.github.io/streamlit-in-the-secondary-classroom.html" rel="alternate"/><published>2026-04-23T00:00:00+10:00</published><updated>2026-04-23T00:00:00+10:00</updated><author><name>Geoff Matheson</name></author><id>tag:melbpy.github.io,2026-04-23:/streamlit-in-the-secondary-classroom.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/2IbhfSgocLE"
+graphs help reveal patterns that traditional approaches often miss.&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="graphs"/><category term="fraud"/></entry><entry><title>Beyond RAG: Building an Agentic "Second Brain" with FastAPI, pgvector, and Gemini</title><link href="https://melbpy.github.io/beyond-rag-building-an-agentic-second-brain-with-fastapi-pgvector-and-gemini.html" rel="alternate"/><published>2026-06-11T00:00:00+10:00</published><updated>2026-06-11T00:00:00+10:00</updated><author><name>Abhijeet Kumar</name></author><id>tag:melbpy.github.io,2026-06-11:/beyond-rag-building-an-agentic-second-brain-with-fastapi-pgvector-and-gemini.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/wHdlS8DWwE8"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Abhijeet Kumar&lt;/h2&gt;
+&lt;p&gt;This talk explores Project NeuralFortress — a Python-based knowledge management system that evolves beyond traditional RAG approaches using FastAPI, Neon PostgreSQL with pgvector, and Google Gemini for cognitive processing.&lt;/p&gt;
+&lt;p&gt;(Starts at 30:20)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="rag"/><category term="agents"/><category term="fastapi"/><category term="postgresql"/><category term="gemini"/></entry><entry><title>TypeScript for Pythonistas / Python for TS Devs</title><link href="https://melbpy.github.io/typescript-for-pythonistas-python-for-ts-devs.html" rel="alternate"/><published>2026-06-11T00:00:00+10:00</published><updated>2026-06-11T00:00:00+10:00</updated><author><name>Javier Candeira</name></author><id>tag:melbpy.github.io,2026-06-11:/typescript-for-pythonistas-python-for-ts-devs.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/wHdlS8DWwE8"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Javier Candeira, Senior Software Engineer, Judo Bank&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/javier-candeira/"&gt;https://www.linkedin.com/in/javier-candeira/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session, Javier will share a cheatsheet-centric and concurrency-focused
+look at the similarities and differences between Python and TypeScript, aimed
+at developers who regularly switch between the two languages.&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="typescript"/><category term="concurrency"/></entry><entry><title>Ask Employers Anything</title><link href="https://melbpy.github.io/ask-employers-anything.html" rel="alternate"/><published>2026-04-23T00:00:00+10:00</published><updated>2026-04-23T00:00:00+10:00</updated><author><name>Nigel Chapman</name></author><id>tag:melbpy.github.io,2026-04-23:/ask-employers-anything.html</id><summary type="html">&lt;h2&gt;Nigel Chapman (host)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;This session was intentionally not recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;HR staff and hirers from some of the city's biggest Python companies will be taking questions about the Python job market here in Melbourne: We've got Bureau of Meteorology for science and government, MYOB and JudoBank for data/finance, and Kogan …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Nigel Chapman (host)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;This session was intentionally not recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;HR staff and hirers from some of the city's biggest Python companies will be taking questions about the Python job market here in Melbourne: We've got Bureau of Meteorology for science and government, MYOB and JudoBank for data/finance, and Kogan for ecommerce. Here's your chance to ask anything you've been wanting to know.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kogan | &lt;a href="https://www.linkedin.com/in/anita-rajalingam/" target="_blank"&gt;Anita Rajalingam&lt;/a&gt; | Head of Talent Acquisition&lt;/li&gt;
+&lt;li&gt;MYOB | &lt;a href="https://www.linkedin.com/in/ashleighlyas/" target="_blank"&gt;Ashleigh Lyas&lt;/a&gt; | Talent Manager&lt;/li&gt;
+&lt;li&gt;Judo Bank | &lt;a href="https://www.linkedin.com/in/jbfenton/" target="_blank"&gt;Josh Fenton&lt;/a&gt; | Engineering Lead&lt;/li&gt;
+&lt;li&gt;BOM | &lt;a href="https://www.linkedin.com/in/robert-pipunic-6b747b58/" target="_blank"&gt;Robert Pipunic&lt;/a&gt; | Team Leader, Observations&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Meet-up"/><category term="talks"/><category term="jobs"/><category term="careers"/><category term="panel"/><category term="community"/></entry><entry><title>Streamlit in the Secondary Classroom</title><link href="https://melbpy.github.io/streamlit-in-the-secondary-classroom.html" rel="alternate"/><published>2026-04-23T00:00:00+10:00</published><updated>2026-04-23T00:00:00+10:00</updated><author><name>Geoff Matheson</name></author><id>tag:melbpy.github.io,2026-04-23:/streamlit-in-the-secondary-classroom.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/2IbhfSgocLE"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Geoff Matheson, Learning Specialist, Heathmont College; Digital Technologies Subject Matter Expert, Department of Education&lt;/h2&gt;
@@ -201,7 +226,123 @@ graphs help reveal patterns that traditional approaches often miss.&lt;/p&gt;</c
 
 &lt;h2&gt;Geoff Matheson, Learning Specialist, Heathmont College; Digital Technologies Subject Matter Expert, Department of Education&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.linkedin.com/in/geoff-matheson-735a87287/"&gt;https://www.linkedin.com/in/geoff-matheson-735a87287/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In this session, Geoff will share his experience using Streamlit and GitHub Codespaces to teach Python to Year 10 and VCE Data Analytics Year 12 students, covering what made it work, the obstacles to watch out for, and how quick-reward tools can drive engagement in secondary education.&lt;/p&gt;</content><category term="Humanities"/><category term="talks"/><category term="youtube"/><category term="streamlit"/><category term="github"/><category term="education"/></entry><entry><title>Better DataFrames with the Polars DataFrame library</title><link href="https://melbpy.github.io/better-dataframes-with-the-polars-dataframe-library.html" rel="alternate"/><published>2025-08-31T00:00:00+10:00</published><updated>2025-08-31T00:00:00+10:00</updated><author><name>Ed Schofield</name></author><id>tag:melbpy.github.io,2025-08-31:/better-dataframes-with-the-polars-dataframe-library.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
+&lt;p&gt;In this session, Geoff will share his experience using Streamlit and GitHub Codespaces to teach Python to Year 10 and VCE Data Analytics Year 12 students, covering what made it work, the obstacles to watch out for, and how quick-reward tools can drive engagement in secondary education.&lt;/p&gt;</content><category term="Humanities"/><category term="talks"/><category term="youtube"/><category term="streamlit"/><category term="github"/><category term="education"/></entry><entry><title>Talk Writing Workshop with PyConAU</title><link href="https://melbpy.github.io/talk-writing-workshop-with-pyconau.html" rel="alternate"/><published>2026-03-20T00:00:00+11:00</published><updated>2026-03-20T00:00:00+11:00</updated><author><name>Katie McLaughlin</name></author><id>tag:melbpy.github.io,2026-03-20:/talk-writing-workshop-with-pyconau.html</id><summary type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Katie McLaughlin, Senior Developer Relations Engineer, Google Cloud&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/glasnt/"&gt;https://www.linkedin.com/in/glasnt/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Do you have a Python talk idea but you're not quite sure how to bring it to
+life? Perhaps you've built something cool, contributed something you're proud
+of, or you want to teach a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Katie McLaughlin, Senior Developer Relations Engineer, Google Cloud&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/glasnt/"&gt;https://www.linkedin.com/in/glasnt/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Do you have a Python talk idea but you're not quite sure how to bring it to
+life? Perhaps you've built something cool, contributed something you're proud
+of, or you want to teach a topic you've been learning about! Giving a talk at
+MelbPy, or at PyCon AU 2026 is a great way to share your knowledge and tell
+your story! Bring your laptop.&lt;/p&gt;</content><category term="Meet-up"/><category term="talks"/><category term="workshop"/><category term="pyconau"/><category term="speaking"/><category term="community"/></entry><entry><title>An AI-Powered Offline Contract Analyzer</title><link href="https://melbpy.github.io/an-ai-powered-offline-contract-analyzer.html" rel="alternate"/><published>2026-03-19T00:00:00+11:00</published><updated>2026-03-19T00:00:00+11:00</updated><author><name>Ivy Fiecas</name></author><id>tag:melbpy.github.io,2026-03-19:/an-ai-powered-offline-contract-analyzer.html</id><summary type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Ivy Fiecas, Consultant, SoftwareOne Australia&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/ifiecas/"&gt;https://www.linkedin.com/in/ifiecas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session, Ivy will present a Python-based proof-of-concept contract
+analyzer built with open-source tools that runs entirely offline, demonstrating
+how a local-first AI approach can help address privacy and security concerns,
+along with a short live …&lt;/p&gt;</summary><content type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Ivy Fiecas, Consultant, SoftwareOne Australia&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/ifiecas/"&gt;https://www.linkedin.com/in/ifiecas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session, Ivy will present a Python-based proof-of-concept contract
+analyzer built with open-source tools that runs entirely offline, demonstrating
+how a local-first AI approach can help address privacy and security concerns,
+along with a short live demo.&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="llm"/><category term="privacy"/><category term="local-first"/></entry><entry><title>AI Agent demonstration with Microeval</title><link href="https://melbpy.github.io/ai-agent-demonstration-with-microeval.html" rel="alternate"/><published>2026-02-12T00:00:00+11:00</published><updated>2026-02-12T00:00:00+11:00</updated><author><name>Bosco Ho</name></author><id>tag:melbpy.github.io,2026-02-12:/ai-agent-demonstration-with-microeval.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/msZAzVw2_SI"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Bosco Ho&lt;/h2&gt;
+&lt;p&gt;(No description)&lt;/p&gt;
+&lt;p&gt;(Starts at 42:10)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="agents"/><category term="evals"/><category term="llm"/></entry><entry><title>An EV Trip Planner for Australia</title><link href="https://melbpy.github.io/an-ev-trip-planner-for-australia.html" rel="alternate"/><published>2026-02-12T00:00:00+11:00</published><updated>2026-02-12T00:00:00+11:00</updated><author><name>David Colls</name></author><id>tag:melbpy.github.io,2026-02-12:/an-ev-trip-planner-for-australia.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/msZAzVw2_SI"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;David Colls, Head of Data, MYOB&lt;/h2&gt;
+&lt;p&gt;In this session, David explores related problems in EV network and fleet planning.&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="graphs"/><category term="planning"/><category term="optimisation"/></entry><entry><title>Building a Self-Hosted AI: The Cost-Effective Path to Knowledge Management System</title><link href="https://melbpy.github.io/building-a-self-hosted-ai-the-cost-effective-path-to-knowledge-management-system.html" rel="alternate"/><published>2025-12-16T00:00:00+11:00</published><updated>2025-12-16T00:00:00+11:00</updated><author><name>Gordon Chen</name></author><id>tag:melbpy.github.io,2025-12-16:/building-a-self-hosted-ai-the-cost-effective-path-to-knowledge-management-system.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/-JEr4jnBW2c"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Gordon Chen, Managing Director, GordonData&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/gordonjhchen/"&gt;https://www.linkedin.com/in/gordonjhchen/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tired of generic AI answers or high cloud costs? This talk dives deep into how
+we solved the enterprise knowledge challenge by building a secure, self-hosted
+RAG (Retrieval-Augmented Generation) system. It details the specific
+open-source stack, from SharePoint ingestion …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/-JEr4jnBW2c"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Gordon Chen, Managing Director, GordonData&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/gordonjhchen/"&gt;https://www.linkedin.com/in/gordonjhchen/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tired of generic AI answers or high cloud costs? This talk dives deep into how
+we solved the enterprise knowledge challenge by building a secure, self-hosted
+RAG (Retrieval-Augmented Generation) system. It details the specific
+open-source stack, from SharePoint ingestion and FAISS indexing to running
+DeepSeek-LLM locally, all integrated directly into Microsoft Teams.&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="rag"/><category term="llm"/><category term="faiss"/><category term="deepseek"/><category term="self-hosted"/></entry><entry><title>Python-Powered AI Image Generation on GKE: Hands-on with Stable Diffusion, PyTorch &amp; Kubernetes</title><link href="https://melbpy.github.io/python-powered-ai-image-generation-on-gke-hands-on-with-stable-diffusion-pytorch-kubernetes.html" rel="alternate"/><published>2025-11-13T00:00:00+11:00</published><updated>2025-11-13T00:00:00+11:00</updated><author><name>Yongkang He</name></author><id>tag:melbpy.github.io,2025-11-13:/python-powered-ai-image-generation-on-gke-hands-on-with-stable-diffusion-pytorch-kubernetes.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/xEIP6PVpXuU"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Yongkang He, Founder / Advisor, KSUG.AI&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/yongkanghe/"&gt;https://www.linkedin.com/in/yongkanghe/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this hands-on workshop by KSUG.AI, Yongkang will walk through building and
+deploying a Python-powered AI app running Stable Diffusion on Google Kubernetes
+Engine (GKE).&lt;/p&gt;</content><category term="Ops &amp; Cloud"/><category term="talks"/><category term="youtube"/><category term="workshop"/><category term="kubernetes"/><category term="gcp"/><category term="pytorch"/><category term="stable-diffusion"/></entry><entry><title>Turning the Tables</title><link href="https://melbpy.github.io/turning-the-tables.html" rel="alternate"/><published>2025-11-13T00:00:00+11:00</published><updated>2025-11-13T00:00:00+11:00</updated><author><name>Ian Baker</name></author><id>tag:melbpy.github.io,2025-11-13:/turning-the-tables.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/xEIP6PVpXuU"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Ian Baker, Team Leader, Data Networks Design, Telstra (retired)&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/ian-baker-91a2384a/"&gt;https://www.linkedin.com/in/ian-baker-91a2384a/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A history and outline of Boa Constructor, a Python IDE from 1999, and "a task I set myself in my retirement" -- making it work today.&lt;/p&gt;
+&lt;p&gt;(Starts at 38:00)&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="ide"/></entry><entry><title>Empowering Safer Spaces: Monitoring Social Media Harassment with Python APIs</title><link href="https://melbpy.github.io/empowering-safer-spaces-monitoring-social-media-harassment-with-python-apis.html" rel="alternate"/><published>2025-09-21T00:00:00+10:00</published><updated>2025-09-21T00:00:00+10:00</updated><author><name>Billie Badin-Sabouraud</name></author><id>tag:melbpy.github.io,2025-09-21:/empowering-safer-spaces-monitoring-social-media-harassment-with-python-apis.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/0l72F8vyxmQ"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Billie Badin-Sabouraud, Engineering Manager, Thales Australia&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/billiebadin/"&gt;https://www.linkedin.com/in/billiebadin/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Billie introduces a work-in-progress project leveraging Python APIs to monitor,
+track, and document social media hate speech across platforms like LinkedIn,
+Instagram, Threads, and BlueSky. Attendees will gain insights into scripting
+practical solutions for detecting and countering online …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/0l72F8vyxmQ"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Billie Badin-Sabouraud, Engineering Manager, Thales Australia&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/billiebadin/"&gt;https://www.linkedin.com/in/billiebadin/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Billie introduces a work-in-progress project leveraging Python APIs to monitor,
+track, and document social media hate speech across platforms like LinkedIn,
+Instagram, Threads, and BlueSky. Attendees will gain insights into scripting
+practical solutions for detecting and countering online abuse and may join an
+open-source collaborative effort to foster safer digital environments for all.&lt;/p&gt;</content><category term="Humanities"/><category term="talks"/><category term="youtube"/><category term="social-media"/><category term="apis"/><category term="open-source"/><category term="society"/></entry><entry><title>From Image to Insights</title><link href="https://melbpy.github.io/from-image-to-insights.html" rel="alternate"/><published>2025-09-21T00:00:00+10:00</published><updated>2025-09-21T00:00:00+10:00</updated><author><name>Renaldi Gondosubroto</name></author><id>tag:melbpy.github.io,2025-09-21:/from-image-to-insights.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/0l72F8vyxmQ"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Renaldi Gondosubroto, Software Engineer, SEEK&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/renaldigondosubroto/"&gt;https://www.linkedin.com/in/renaldigondosubroto/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This lightning talk shows how to turn a single image into text using Python and
+Azure AI Vision; covering environment setup, the minimal client call, and safe
+result parsing. We’ll then zoom out to place this OCR step …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/0l72F8vyxmQ"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Renaldi Gondosubroto, Software Engineer, SEEK&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/renaldigondosubroto/"&gt;https://www.linkedin.com/in/renaldigondosubroto/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This lightning talk shows how to turn a single image into text using Python and
+Azure AI Vision; covering environment setup, the minimal client call, and safe
+result parsing. We’ll then zoom out to place this OCR step into a larger,
+event-driven Azure architecture, highlighting security, observability, and easy
+ways to scale.&lt;/p&gt;
+&lt;p&gt;(Starts at 1:16:20)&lt;/p&gt;</content><category term="Ops &amp; Cloud"/><category term="talks"/><category term="youtube"/><category term="lightning"/><category term="azure"/><category term="ocr"/></entry><entry><title>Prompt Ops: Operationalizing LLM Workflows</title><link href="https://melbpy.github.io/prompt-ops-operationalizing-llm-workflows.html" rel="alternate"/><published>2025-09-21T00:00:00+10:00</published><updated>2025-09-21T00:00:00+10:00</updated><author><name>Aman Madaan</name></author><id>tag:melbpy.github.io,2025-09-21:/prompt-ops-operationalizing-llm-workflows.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/0l72F8vyxmQ"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Aman Madaan, Data Science/GenAI Engineer, ANZ Bank&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/aman-madaan/"&gt;https://www.linkedin.com/in/aman-madaan/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt ops is emerging as a critical discipline in the era of LLMs. In this
+talk, I will explore how Prompt Ops enables scalable, reliable and maintainable
+prompt engineering workflows. We will dive into best practices …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/0l72F8vyxmQ"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Aman Madaan, Data Science/GenAI Engineer, ANZ Bank&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/aman-madaan/"&gt;https://www.linkedin.com/in/aman-madaan/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Prompt ops is emerging as a critical discipline in the era of LLMs. In this
+talk, I will explore how Prompt Ops enables scalable, reliable and maintainable
+prompt engineering workflows. We will dive into best practices for versioning,
+testing, evaluating and deploying prompts - turning prompt engineering from an
+art into a science. Whether you are building internal copilots, customer facing
+chatbots or LLM powered data tools, this session will equip you with tools and
+mindset to operationalize your prompts like code.&lt;/p&gt;
+&lt;p&gt;(Starts at 44:25)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="llm"/><category term="prompts"/><category term="mlops"/></entry><entry><title>Better DataFrames with the Polars DataFrame library</title><link href="https://melbpy.github.io/better-dataframes-with-the-polars-dataframe-library.html" rel="alternate"/><published>2025-08-31T00:00:00+10:00</published><updated>2025-08-31T00:00:00+10:00</updated><author><name>Ed Schofield</name></author><id>tag:melbpy.github.io,2025-08-31:/better-dataframes-with-the-polars-dataframe-library.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Ed Schofield, Director, Python Charmers&lt;/h2&gt;
@@ -213,11 +354,28 @@ graphs help reveal patterns that traditional approaches often miss.&lt;/p&gt;</c
 &lt;p&gt;&lt;a href="https://www.linkedin.com/in/edschofield0/"&gt;https://www.linkedin.com/in/edschofield0/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Pandas package has been dominant in Python for around 15 years but its design is now showing its age. There is now a vibrant and messy ecosystem of potential disruptors to the status quo for data analysis tasks in Python.&lt;/p&gt;
 &lt;p&gt;This talk will help you make sense of the mess.&lt;/p&gt;
-&lt;p&gt;(2nd Talk, 15:45)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="polars"/><category term="pandas"/><category term="sql"/></entry><entry><title>Python Design Patterns</title><link href="https://melbpy.github.io/python-design-patterns.html" rel="alternate"/><published>2025-08-21T00:00:00+10:00</published><updated>2025-08-21T00:00:00+10:00</updated><author><name>Akshat Soni</name></author><id>tag:melbpy.github.io,2025-08-21:/python-design-patterns.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
+&lt;p&gt;(Starts at 15:45)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="polars"/><category term="pandas"/><category term="sql"/></entry><entry><title>Python Design Patterns</title><link href="https://melbpy.github.io/python-design-patterns.html" rel="alternate"/><published>2025-08-21T00:00:00+10:00</published><updated>2025-08-21T00:00:00+10:00</updated><author><name>Akshat Soni</name></author><id>tag:melbpy.github.io,2025-08-21:/python-design-patterns.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/3L_97R3mSCw"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Akshat Soni, Senior Consultant in GenAI and Python&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.linkedin.com/in/akshatsoni64/"&gt;https://www.linkedin.com/in/akshatsoni64/&lt;/a&gt;&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="patterns"/></entry><entry><title>Crossing the Streams: Sand-boxing python applications</title><link href="https://melbpy.github.io/crossing-the-streams-sand-boxing-python-applications.html" rel="alternate"/><published>2025-05-06T00:00:00+10:00</published><updated>2025-05-06T00:00:00+10:00</updated><author><name>Ben Taylor</name></author><id>tag:melbpy.github.io,2025-05-06:/crossing-the-streams-sand-boxing-python-applications.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PMrGzSAVydg"
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/akshatsoni64/"&gt;https://www.linkedin.com/in/akshatsoni64/&lt;/a&gt;&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="patterns"/></entry><entry><title>Automating Video Insights with Python and LangGraph</title><link href="https://melbpy.github.io/automating-video-insights-with-python-and-langgraph.html" rel="alternate"/><published>2025-07-10T00:00:00+10:00</published><updated>2025-07-10T00:00:00+10:00</updated><author><name>Su Myat Noe Pwint</name></author><id>tag:melbpy.github.io,2025-07-10:/automating-video-insights-with-python-and-langgraph.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/JKvzjiv0LCc"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Su Myat Noe Pwint, Platform Software Engineer&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/%F0%9F%8C%BB-su-myat-noe-pwint-b686976b/"&gt;https://www.linkedin.com/in/%F0%9F%8C%BB-su-myat-noe-pwint-b686976b/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(No description)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="langgraph"/><category term="agents"/><category term="video"/></entry><entry><title>Building AI Agents with the Strands SDK</title><link href="https://melbpy.github.io/building-ai-agents-with-the-strands-sdk.html" rel="alternate"/><published>2025-07-10T00:00:00+10:00</published><updated>2025-07-10T00:00:00+10:00</updated><author><name>Kinnera Vajjala</name></author><id>tag:melbpy.github.io,2025-07-10:/building-ai-agents-with-the-strands-sdk.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/JKvzjiv0LCc"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Kinnera Vajjala, Senior Solutions Architect, AWS&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/kinnera-vajjala/"&gt;https://www.linkedin.com/in/kinnera-vajjala/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Strands is an open-source Python SDK that enables building AI agents with
+minimal code. In this session, we'll provide an overview of the Strands SDK,
+followed by a live demonstration featuring a financial services use case.&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="agents"/><category term="aws"/><category term="finance"/></entry><entry><title>Building a Recommendation Engine with Neo4j</title><link href="https://melbpy.github.io/building-a-recommendation-engine-with-neo4j.html" rel="alternate"/><published>2025-05-06T00:00:00+10:00</published><updated>2025-05-06T00:00:00+10:00</updated><author><name>Samko Yun</name></author><id>tag:melbpy.github.io,2025-05-06:/building-a-recommendation-engine-with-neo4j.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PMrGzSAVydg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Samko Yun, Senior Presales Solutions Architect, Neo4j&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/samkoyun/"&gt;https://www.linkedin.com/in/samkoyun/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(No description)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="graphs"/><category term="neo4j"/><category term="recommendations"/></entry><entry><title>Crossing the Streams: Sand-boxing python applications</title><link href="https://melbpy.github.io/crossing-the-streams-sand-boxing-python-applications.html" rel="alternate"/><published>2025-05-06T00:00:00+10:00</published><updated>2025-05-06T00:00:00+10:00</updated><author><name>Ben Taylor</name></author><id>tag:melbpy.github.io,2025-05-06:/crossing-the-streams-sand-boxing-python-applications.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PMrGzSAVydg"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Ben Taylor, Product Engineering Team Lead, Stile Education&lt;/h2&gt;
@@ -227,15 +385,188 @@ graphs help reveal patterns that traditional approaches often miss.&lt;/p&gt;</c
 
 &lt;h2&gt;Ben Taylor, Product Engineering Team Lead, Stile Education&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.linkedin.com/in/taybenlor/"&gt;https://www.linkedin.com/in/taybenlor/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ben, a software engineer passionate about EdTech, will share his experience of adapting the Runno sandbox, originally written in TypeScript for browser environments, into a Python package. Over the holidays, Ben released this tool to PyPI, enabling developers to safely run untrusted code from various languages directly within Python. This talk will cover the challenges of bridging languages, the importance of sandboxing and AI workflows, and how this tool can enhance projects involving LLMs and interactive learning environments.&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="education"/><category term="sandbox"/><category term="typescript"/><category term="pypi"/></entry><entry><title>Graph Neural Networks</title><link href="https://melbpy.github.io/graph-neural-networks.html" rel="alternate"/><published>2024-02-02T00:00:00+11:00</published><updated>2024-02-02T00:00:00+11:00</updated><author><name>Mohammad Abuhassan</name></author><id>tag:melbpy.github.io,2024-02-02:/graph-neural-networks.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/ycyknzQHN4U"
+&lt;p&gt;Ben, a software engineer passionate about EdTech, will share his experience of adapting the Runno sandbox, originally written in TypeScript for browser environments, into a Python package. Over the holidays, Ben released this tool to PyPI, enabling developers to safely run untrusted code from various languages directly within Python. This talk will cover the challenges of bridging languages, the importance of sandboxing and AI workflows, and how this tool can enhance projects involving LLMs and interactive learning environments.&lt;/p&gt;</content><category term="Humanities"/><category term="talks"/><category term="youtube"/><category term="education"/><category term="sandbox"/><category term="typescript"/></entry><entry><title>Free-Threaded Python and the Actor Model</title><link href="https://melbpy.github.io/free-threaded-python-and-the-actor-model.html" rel="alternate"/><published>2025-03-20T00:00:00+11:00</published><updated>2025-03-20T00:00:00+11:00</updated><author><name>James Schinner</name></author><id>tag:melbpy.github.io,2025-03-20:/free-threaded-python-and-the-actor-model.html</id><summary type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;James Schinner, Senior Backend Engineer, Archa&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/james-schinner/"&gt;https://www.linkedin.com/in/james-schinner/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;James, an experienced backend engineer who transitioned into programming from electrical work and biomedical science, will explore the actor model in threaded Python. James will demonstrate how free-threaded Python, inspired by Erlang-style concurrency, can create more …&lt;/p&gt;</summary><content type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;James Schinner, Senior Backend Engineer, Archa&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/james-schinner/"&gt;https://www.linkedin.com/in/james-schinner/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;James, an experienced backend engineer who transitioned into programming from electrical work and biomedical science, will explore the actor model in threaded Python. James will demonstrate how free-threaded Python, inspired by Erlang-style concurrency, can create more reliable systems. He will break down the actor model's conceptual benefits and showcase an implementation of threaded concurrency in Python.&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="concurrency"/><category term="free-threading"/><category term="actors"/></entry><entry><title>Retrieval Augmented Generation for Reliable Chatbots (From RAG to Riches)</title><link href="https://melbpy.github.io/retrieval-augmented-generation-for-reliable-chatbots-from-rag-to-riches.html" rel="alternate"/><published>2025-03-20T00:00:00+11:00</published><updated>2025-03-20T00:00:00+11:00</updated><author><name>Luca Lenz</name></author><id>tag:melbpy.github.io,2025-03-20:/retrieval-augmented-generation-for-reliable-chatbots-from-rag-to-riches.html</id><summary type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Luca Lenz, Intern, Legal Tech Helper&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/lucalenz/"&gt;https://www.linkedin.com/in/lucalenz/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Luca, a mathematics and scientific computing graduate from Heidelberg
+University, will share insights from his recent work at Legal Tech Helper. His
+talk explores Retrieval Augmented Generation (RAG) and how it enhances AI
+chatbot reliability, particularly …&lt;/p&gt;</summary><content type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Luca Lenz, Intern, Legal Tech Helper&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/lucalenz/"&gt;https://www.linkedin.com/in/lucalenz/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Luca, a mathematics and scientific computing graduate from Heidelberg
+University, will share insights from his recent work at Legal Tech Helper. His
+talk explores Retrieval Augmented Generation (RAG) and how it enhances AI
+chatbot reliability, particularly in sensitive applications like legal and
+medical services. He will discuss common challenges of LLMs, and introduce
+tools like Docling, Milvus, and Ollama for implementing RAG with self-hosted
+LLMs.&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="rag"/><category term="llm"/><category term="ollama"/></entry><entry><title>Applying AI on an eCommerce System</title><link href="https://melbpy.github.io/applying-ai-on-an-ecommerce-system.html" rel="alternate"/><published>2025-02-13T00:00:00+11:00</published><updated>2025-02-13T00:00:00+11:00</updated><author><name>Henry Truong</name></author><id>tag:melbpy.github.io,2025-02-13:/applying-ai-on-an-ecommerce-system.html</id><content type="html">&lt;h2&gt;Henry Truong, SAP Commerce Specialist, Dulux Group&lt;/h2&gt;
+&lt;p&gt;(No video)&lt;/p&gt;
+&lt;p&gt;With over 23 years of experience as a senior Java developer and eCommerce functional consultant, Henry will introduce the applications of AI in eCommerce, including voice search, image search, ChatGPT chatbots, sales forecasting, etc.&lt;/p&gt;</content><category term="Web"/><category term="talks"/><category term="no-youtube"/><category term="ecommerce"/><category term="llm"/><category term="search"/></entry><entry><title>Welcome to the Future of Carbon Accounting: An Introduction to the PACT Network</title><link href="https://melbpy.github.io/welcome-to-the-future-of-carbon-accounting-an-introduction-to-the-pact-network.html" rel="alternate"/><published>2025-02-13T00:00:00+11:00</published><updated>2025-02-13T00:00:00+11:00</updated><author><name>Louis Willcock</name></author><id>tag:melbpy.github.io,2025-02-13:/welcome-to-the-future-of-carbon-accounting-an-introduction-to-the-pact-network.html</id><summary type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Louis Willcock, Founder, ZeroTwentyFifty&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/louis-willcock-a67888301/"&gt;https://www.linkedin.com/in/louis-willcock-a67888301/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A software engineer with 8 years of experience in backend roles, Louis began
+exploring carbon accounting and product carbon footprints two years ago. Since
+then, Louis started developing solutions for the exchange and calculation of
+product-level carbon accounting …&lt;/p&gt;</summary><content type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Louis Willcock, Founder, ZeroTwentyFifty&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/louis-willcock-a67888301/"&gt;https://www.linkedin.com/in/louis-willcock-a67888301/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A software engineer with 8 years of experience in backend roles, Louis began
+exploring carbon accounting and product carbon footprints two years ago. Since
+then, Louis started developing solutions for the exchange and calculation of
+product-level carbon accounting data and will introduce the PACT Network.&lt;/p&gt;</content><category term="Humanities"/><category term="talks"/><category term="carbon"/><category term="sustainability"/></entry><entry><title>A Deep, Pythonistic Dive Into Ximena, an AI Twitch Streamer</title><link href="https://melbpy.github.io/a-deep-pythonistic-dive-into-ximena-an-ai-twitch-streamer.html" rel="alternate"/><published>2024-12-03T00:00:00+11:00</published><updated>2024-12-03T00:00:00+11:00</updated><author><name>Renaldi Gondosubroto</name></author><id>tag:melbpy.github.io,2024-12-03:/a-deep-pythonistic-dive-into-ximena-an-ai-twitch-streamer.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/OYWw0b6x_64"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Renaldi Gondosubroto, Software Engineer, SEEK&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/renaldigondosubroto/"&gt;https://www.linkedin.com/in/renaldigondosubroto/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ximena is an AI Twitch streamer that engages viewers in chatting and chess
+games. This talk explores the Python-driven architecture that works with Amazon
+Bedrock which powers Ximena, with insights into how responses are generated for
+different scenarios.&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="llm"/><category term="aws"/><category term="bedrock"/><category term="chat"/><category term="chess"/></entry><entry><title>Web Development with Django: Deployment with Django</title><link href="https://melbpy.github.io/web-development-with-django-deployment-with-django.html" rel="alternate"/><published>2024-12-03T00:00:00+11:00</published><updated>2024-12-03T00:00:00+11:00</updated><author><name>Akshat Soni</name></author><id>tag:melbpy.github.io,2024-12-03:/web-development-with-django-deployment-with-django.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/OYWw0b6x_64"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Akshat Soni, Student, Deakin University&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/akshatsoni64/"&gt;https://www.linkedin.com/in/akshatsoni64/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Learn how to deploy Django applications with Docker and MySQL database integration. This step-by-step guide will cover practical tips and tools for seamless deployment.&lt;/p&gt;
+&lt;p&gt;(Starts at 49:50)&lt;/p&gt;</content><category term="Web"/><category term="talks"/><category term="youtube"/><category term="django"/><category term="docker"/><category term="mysql"/><category term="deployment"/></entry><entry><title>GenAI Coding with an Open Source Code Companion: aider.chat</title><link href="https://melbpy.github.io/genai-coding-with-an-open-source-code-companion-aiderchat.html" rel="alternate"/><published>2024-11-06T00:00:00+11:00</published><updated>2024-11-06T00:00:00+11:00</updated><author><name>Jane Ooi, Timothy Downs</name></author><id>tag:melbpy.github.io,2024-11-06:/genai-coding-with-an-open-source-code-companion-aiderchat.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PHuap4NvVvI"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Jane Ooi, Senior Solutions Architect, AWS; and Timothy Downs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/jane-ooi/"&gt;https://www.linkedin.com/in/jane-ooi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;aider.chat is an open source AI programming companion. This talk will explore aider.chat and how it differs from other GenAI code companions, with a live demo using aider.chat to build a game …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PHuap4NvVvI"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Jane Ooi, Senior Solutions Architect, AWS; and Timothy Downs&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/jane-ooi/"&gt;https://www.linkedin.com/in/jane-ooi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;aider.chat is an open source AI programming companion. This talk will explore aider.chat and how it differs from other GenAI code companions, with a live demo using aider.chat to build a game to highlight its features (&lt;a href="https://github.com/paul-gauthier/aider"&gt;https://github.com/paul-gauthier/aider&lt;/a&gt;).&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="llm"/><category term="coding-assistants"/></entry><entry><title>Introduction to Algorithmic Trading in Python</title><link href="https://melbpy.github.io/introduction-to-algorithmic-trading-in-python.html" rel="alternate"/><published>2024-11-06T00:00:00+11:00</published><updated>2024-11-06T00:00:00+11:00</updated><author><name>Adolfo Villalobos</name></author><id>tag:melbpy.github.io,2024-11-06:/introduction-to-algorithmic-trading-in-python.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PHuap4NvVvI"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Adolfo Villalobos, Machine Learning Engineer, OrionX&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/adolfovillalobos/"&gt;https://www.linkedin.com/in/adolfovillalobos/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk will focus on the core building blocks for starting a new trading system from scratch. We will uncover a simple trading strategy called "liquidity mirroring", how to use message queues to propagate price data and decisions …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/PHuap4NvVvI"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Adolfo Villalobos, Machine Learning Engineer, OrionX&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/adolfovillalobos/"&gt;https://www.linkedin.com/in/adolfovillalobos/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This talk will focus on the core building blocks for starting a new trading system from scratch. We will uncover a simple trading strategy called "liquidity mirroring", how to use message queues to propagate price data and decisions through the system, and core design patterns used to build the main micro-services involved: business logic using strategy patterns, price observer and order/trade observers. A minimal example of how to build an event-driven trading system using Python micro-services will be presented in the talk.&lt;/p&gt;
+&lt;p&gt;(Starts at 42:20)&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="trading"/><category term="microservices"/></entry><entry><title>Intro to Post Quantum Cryptography with Python</title><link href="https://melbpy.github.io/intro-to-post-quantum-cryptography-with-python.html" rel="alternate"/><published>2024-08-20T00:00:00+10:00</published><updated>2024-08-20T00:00:00+10:00</updated><author><name>Samuel Tseitkin</name></author><id>tag:melbpy.github.io,2024-08-20:/intro-to-post-quantum-cryptography-with-python.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/n72wL1W4Wgg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Samuel Tseitkin&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/samuel-tseitkin-2a4b9718a/"&gt;https://www.linkedin.com/in/samuel-tseitkin-2a4b9718a/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A quick overview of Quantum Computers, their impact on society as a whole, then
+diving into Qiskit - a Python Quantum Computer simulator library by IBM. We
+will be showing how to do some basic operations with Qiskit. If there is time,
+we …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/n72wL1W4Wgg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Samuel Tseitkin&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/samuel-tseitkin-2a4b9718a/"&gt;https://www.linkedin.com/in/samuel-tseitkin-2a4b9718a/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A quick overview of Quantum Computers, their impact on society as a whole, then
+diving into Qiskit - a Python Quantum Computer simulator library by IBM. We
+will be showing how to do some basic operations with Qiskit. If there is time,
+we will then quickly overview QKD (Quantum Key Distribution) and do a Python
+implementation of it.&lt;/p&gt;
+&lt;p&gt;(Starts at 33:00)&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="cryptography"/><category term="quantum"/><category term="security"/></entry><entry><title>RESTful API Development using Python &amp; Django</title><link href="https://melbpy.github.io/restful-api-development-using-python-django.html" rel="alternate"/><published>2024-08-20T00:00:00+10:00</published><updated>2024-08-20T00:00:00+10:00</updated><author><name>Akshat Soni</name></author><id>tag:melbpy.github.io,2024-08-20:/restful-api-development-using-python-django.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/n72wL1W4Wgg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Akshat Soni, Postgraduate Cybersecurity Student, Deakin University&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/akshatsoni64/"&gt;https://www.linkedin.com/in/akshatsoni64/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A beginner friendly talk explaining Django Architecture, and how its API
+systems work, with a demo.&lt;/p&gt;</content><category term="Web"/><category term="talks"/><category term="youtube"/><category term="django"/><category term="rest"/><category term="apis"/></entry><entry><title>Useful (and not so useful) introspection in Python</title><link href="https://melbpy.github.io/useful-and-not-so-useful-introspection-in-python.html" rel="alternate"/><published>2024-06-11T00:00:00+10:00</published><updated>2024-06-11T00:00:00+10:00</updated><author><name>Owen Elliott</name></author><id>tag:melbpy.github.io,2024-06-11:/useful-and-not-so-useful-introspection-in-python.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/foItB5V4FZg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Owen Elliott, Solutions Architect, Marqo&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/owen-elliott-345254166/"&gt;https://www.linkedin.com/in/owen-elliott-345254166/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this talk we will look at introspection and its applications in software design and optimisation. We will also look into Python with introspection and uncover some of its strange behaviour.&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="introspection"/><category term="internals"/></entry><entry><title>Optimising SciPy's RGI module with Cython</title><link href="https://melbpy.github.io/optimising-scipys-rgi-module-with-cython.html" rel="alternate"/><published>2024-06-01T00:00:00+10:00</published><updated>2024-06-01T00:00:00+10:00</updated><author><name>Kai Striega</name></author><id>tag:melbpy.github.io,2024-06-01:/optimising-scipys-rgi-module-with-cython.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/foItB5V4FZg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Kai Striega, Data Engineer, BHP&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/kai-striega/"&gt;https://www.linkedin.com/in/kai-striega/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Downloaded millions of times per day, SciPy provides the backbone of the Scientific Python ecosystem. This talk investigates how members of the SciPy core team optimised the RegularGridInterpolator class using Cython. Come along and learn how one of Python …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/foItB5V4FZg"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Kai Striega, Data Engineer, BHP&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/kai-striega/"&gt;https://www.linkedin.com/in/kai-striega/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Downloaded millions of times per day, SciPy provides the backbone of the Scientific Python ecosystem. This talk investigates how members of the SciPy core team optimised the RegularGridInterpolator class using Cython. Come along and learn how one of Python’s largest projects optimises their code.&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="scipy"/><category term="cython"/><category term="performance"/></entry><entry><title>DuckDB: A fast and versatile analytical database to keep in your data toolkit</title><link href="https://melbpy.github.io/duckdb-a-fast-and-versatile-analytical-database-to-keep-in-your-data-toolkit.html" rel="alternate"/><published>2024-04-23T00:00:00+10:00</published><updated>2024-04-23T00:00:00+10:00</updated><author><name>Ned Letcher</name></author><id>tag:melbpy.github.io,2024-04-23:/duckdb-a-fast-and-versatile-analytical-database-to-keep-in-your-data-toolkit.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/yiWdYXTjzqU"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Ned Letcher, Lead Data Science Engineer, Thoughtworks&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/nletcher/"&gt;https://www.linkedin.com/in/nletcher/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session, DuckDB is showcased as a highly efficient in-process analytical database that is capturing the attention of professionals across the data spectrum, owing to its ease of use, exceptional performance, and comprehensive feature set. The …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/yiWdYXTjzqU"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Ned Letcher, Lead Data Science Engineer, Thoughtworks&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/nletcher/"&gt;https://www.linkedin.com/in/nletcher/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session, DuckDB is showcased as a highly efficient in-process analytical database that is capturing the attention of professionals across the data spectrum, owing to its ease of use, exceptional performance, and comprehensive feature set. The talk delves into DuckDB's essence by outlining its capabilities, comparing it with other analytical databases, and providing hands-on examples to illustrate its application in various scenarios. These include ad-hoc data analysis, serverless data pipelines, analytical applications in web browsers, data lake querying for machine learning, and as a compact data warehouse for business intelligence. By the end of the session, attendees are expected to have a clear understanding of DuckDB's potential applications and receive practical tips on how to start integrating it into their own projects, highlighting its versatility and effectiveness in handling diverse analytical tasks.&lt;/p&gt;
+&lt;p&gt;(Starts at 37:15)&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="duckdb"/><category term="sql"/><category term="analytics"/></entry><entry><title>GenAI and its use cases as a Python developer</title><link href="https://melbpy.github.io/genai-and-its-use-cases-as-a-python-developer.html" rel="alternate"/><published>2024-04-23T00:00:00+10:00</published><updated>2024-04-23T00:00:00+10:00</updated><author><name>Dean O'Reilly</name></author><id>tag:melbpy.github.io,2024-04-23:/genai-and-its-use-cases-as-a-python-developer.html</id><summary type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/yiWdYXTjzqU"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Dean O'Reilly, Enterprise FSI Solutions Architect, AWS&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/oreillydean/"&gt;https://www.linkedin.com/in/oreillydean/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As GenAI continues to be adopted more widely within the tech sector, this talk
+will identify three main areas where GenAI can be used as a Python Developer
+and identify how GenAI may augment the role as …&lt;/p&gt;</summary><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/yiWdYXTjzqU"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Dean O'Reilly, Enterprise FSI Solutions Architect, AWS&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/oreillydean/"&gt;https://www.linkedin.com/in/oreillydean/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As GenAI continues to be adopted more widely within the tech sector, this talk
+will identify three main areas where GenAI can be used as a Python Developer
+and identify how GenAI may augment the role as a Python Developer moving
+forward. These use cases include 1) Code assistant 2) Code understanding 3)
+Generated Applications.&lt;/p&gt;
+&lt;p&gt;(Starts at 37:00)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="llm"/><category term="coding-assistants"/><category term="aws"/></entry><entry><title>An Introduction To MicroPython</title><link href="https://melbpy.github.io/an-introduction-to-micropython.html" rel="alternate"/><published>2024-02-21T00:00:00+11:00</published><updated>2024-02-21T00:00:00+11:00</updated><author><name>Matt Trentini</name></author><id>tag:melbpy.github.io,2024-02-21:/an-introduction-to-micropython.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/Z8RjR5R6NKs"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Matt Trentini, Principal Engineer, Planet Innovation&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/matt-trentini/"&gt;https://www.linkedin.com/in/matt-trentini/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Learn how to use our favourite high-level programming language on an embedded
+device. Reduce software development effort, save clients money - and enjoy your
+embedded development!&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="micropython"/><category term="embedded"/><category term="hardware"/></entry><entry><title>Integrating Python and Rust to build better Generative AI models</title><link href="https://melbpy.github.io/integrating-python-and-rust-to-build-better-generative-ai-models.html" rel="alternate"/><published>2024-02-21T00:00:00+11:00</published><updated>2024-02-21T00:00:00+11:00</updated><author><name>Paridhi Jha</name></author><id>tag:melbpy.github.io,2024-02-21:/integrating-python-and-rust-to-build-better-generative-ai-models.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/Z8RjR5R6NKs"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Paridhi Jha, Principal Machine Learning Engineer, OneDigital&lt;/h2&gt;
+&lt;p&gt;(No description)&lt;/p&gt;
+&lt;p&gt;(Starts 44:45)&lt;/p&gt;</content><category term="Data &amp; AI"/><category term="talks"/><category term="youtube"/><category term="rust"/><category term="llm"/><category term="performance"/></entry><entry><title>Graph Neural Networks</title><link href="https://melbpy.github.io/graph-neural-networks.html" rel="alternate"/><published>2024-02-02T00:00:00+11:00</published><updated>2024-02-02T00:00:00+11:00</updated><author><name>Mohammad Abuhassan</name></author><id>tag:melbpy.github.io,2024-02-02:/graph-neural-networks.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/ycyknzQHN4U"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Mohammad Abuhassan, Research Assistant, Deakin University&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.linkedin.com/in/mohammad-abuhassan-phd-a32676121/"&gt;https://www.linkedin.com/in/mohammad-abuhassan-phd-a32676121/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A walkthrough of Graph neural networks and knowledge graphs using python.&lt;/p&gt;
-&lt;p&gt;(2nd talk, 38:45)&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="graphs"/></entry><entry><title>Migrating COBOL data to PostgreSQL using Python and Django</title><link href="https://melbpy.github.io/migrating-cobol-data-to-postgresql-using-python-and-django.html" rel="alternate"/><published>2024-02-02T00:00:00+11:00</published><updated>2024-02-02T00:00:00+11:00</updated><author><name>Alan Perkins</name></author><id>tag:melbpy.github.io,2024-02-02:/migrating-cobol-data-to-postgresql-using-python-and-django.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/ycyknzQHN4U"
+&lt;p&gt;(Starts at 38:45)&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="graphs"/></entry><entry><title>Migrating COBOL data to PostgreSQL using Python and Django</title><link href="https://melbpy.github.io/migrating-cobol-data-to-postgresql-using-python-and-django.html" rel="alternate"/><published>2024-02-02T00:00:00+11:00</published><updated>2024-02-02T00:00:00+11:00</updated><author><name>Alan Perkins</name></author><id>tag:melbpy.github.io,2024-02-02:/migrating-cobol-data-to-postgresql-using-python-and-django.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/ycyknzQHN4U"
         title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;Alan Perkins, Founder, Profound Information&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.linkedin.com/in/alanperkins/"&gt;https://www.linkedin.com/in/alanperkins/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This talk will cover the approach and challenges faced in migrating data from a 42 year old COBOL system. The resulting python application processed between 150 million and a billion records every day for over four years.&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="django"/><category term="cobol"/><category term="sql"/></entry></feed>
+&lt;p&gt;This talk will cover the approach and challenges faced in migrating data from a 42 year old COBOL system. The resulting python application processed between 150 million and a billion records every day for over four years.&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="django"/><category term="cobol"/><category term="sql"/></entry><entry><title>A guide to creating 3D visualisations with Python and the VTK toolkit</title><link href="https://melbpy.github.io/a-guide-to-creating-3d-visualisations-with-python-and-the-vtk-toolkit.html" rel="alternate"/><published>2023-12-01T00:00:00+11:00</published><updated>2023-12-01T00:00:00+11:00</updated><author><name>Daniel Stojanov</name></author><id>tag:melbpy.github.io,2023-12-01:/a-guide-to-creating-3d-visualisations-with-python-and-the-vtk-toolkit.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/EIqOzoFs900"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Daniel Stojanov, Engineering Manager, Coles&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/danielstojanov/"&gt;https://www.linkedin.com/in/danielstojanov/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(No Description)&lt;/p&gt;</content><category term="Sci &amp; Eng"/><category term="talks"/><category term="youtube"/><category term="vtk"/><category term="3d"/><category term="visualisation"/></entry><entry><title>Numbers in Python – why you still need to care about low-level details even when working in a high-level language</title><link href="https://melbpy.github.io/numbers-in-python-why-you-still-need-to-care-about-low-level-details-even-when-working-in-a-high-level-language.html" rel="alternate"/><published>2023-12-01T00:00:00+11:00</published><updated>2023-12-01T00:00:00+11:00</updated><author><name>Imron Alston</name></author><id>tag:melbpy.github.io,2023-12-01:/numbers-in-python-why-you-still-need-to-care-about-low-level-details-even-when-working-in-a-high-level-language.html</id><content type="html">&lt;iframe src="https://www.youtube-nocookie.com/embed/EIqOzoFs900"
+        title="Talk recording" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;Imron Alston, Principal Engineer, Judo Bank&lt;/h2&gt;
+&lt;p&gt;Why you still need to care about low-level details even when working in a high-level language (especially if you work at a bank).&lt;/p&gt;
+&lt;p&gt;(Starts at 59:20)&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="youtube"/><category term="numbers"/><category term="floating-point"/><category term="finance"/></entry><entry><title>A brief introduction to GIL</title><link href="https://melbpy.github.io/a-brief-introduction-to-gil.html" rel="alternate"/><published>2023-10-31T00:00:00+11:00</published><updated>2023-10-31T00:00:00+11:00</updated><author><name>Mitesh Raval</name></author><id>tag:melbpy.github.io,2023-10-31:/a-brief-introduction-to-gil.html</id><content type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Mitesh Raval&lt;/h2&gt;
+&lt;p&gt;The session will cover the roadmap of future updates for Python 3.14 onwards which will impact the Python community.&lt;/p&gt;</content><category term="Developers"/><category term="talks"/><category term="gil"/><category term="concurrency"/><category term="internals"/></entry><entry><title>The State of the Python Community in Melbourne and the GenAI Trend</title><link href="https://melbpy.github.io/the-state-of-the-python-community-in-melbourne-and-the-genai-trend.html" rel="alternate"/><published>2023-10-31T00:00:00+11:00</published><updated>2023-10-31T00:00:00+11:00</updated><author><name>Renaldi Gondosubroto</name></author><id>tag:melbpy.github.io,2023-10-31:/the-state-of-the-python-community-in-melbourne-and-the-genai-trend.html</id><summary type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Renaldi Gondosubroto, Software Engineer, SEEK&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/renaldigondosubroto/"&gt;https://www.linkedin.com/in/renaldigondosubroto/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For those new to the language or looking for a refresher, we'll delve into how
+the Python community currently is in Melbourne and discuss its growing
+significance in the tech world. The latter half of the session …&lt;/p&gt;</summary><content type="html">&lt;p&gt;(No video)&lt;/p&gt;
+&lt;h2&gt;Renaldi Gondosubroto, Software Engineer, SEEK&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/in/renaldigondosubroto/"&gt;https://www.linkedin.com/in/renaldigondosubroto/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For those new to the language or looking for a refresher, we'll delve into how
+the Python community currently is in Melbourne and discuss its growing
+significance in the tech world. The latter half of the session will then cover
+usage of GenAI in Python and show a use case in a popular newcomer in the GenAI
+space, Amazon Bedrock.&lt;/p&gt;</content><category term="Meet-up"/><category term="talks"/><category term="community"/><category term="melbourne"/><category term="llm"/><category term="bedrock"/></entry></feed>
