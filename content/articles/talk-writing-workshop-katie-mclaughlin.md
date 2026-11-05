@@ -3,7 +3,7 @@ category: Meet-up
 title: "Talk Writing Workshop with PyConAU"
 author: Katie McLaughlin
 date: 2026-03-20
-tags: [talks, workshop, pyconau, speaking, community]
+tags: [talks, no-youtube, workshop, pyconau, speaking, community]
 ---
 
 (No video)

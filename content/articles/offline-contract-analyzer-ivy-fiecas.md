@@ -3,7 +3,7 @@ category: Data & AI
 title: "An AI-Powered Offline Contract Analyzer"
 author: Ivy Fiecas
 date: 2026-03-19
-tags: [talks, llm, privacy, local-first]
+tags: [talks, no-youtube, llm, privacy, local-first]
 ---
 
 (No video)
