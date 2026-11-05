@@ -23,6 +23,7 @@ Contact about website and promo:
 Our volunteers help with events and promotion. Contact the organisers (above) to
 get involved.
 
+- <a href="https://www.linkedin.com/in/ian-l-mit/" target="_blank">Ian L</a>
 - <a href="https://www.linkedin.com/in/mahesh-pandey-169a60197" target="_blank">Mahesh Pandey</a>
 - <a href="https://www.linkedin.com/in/%F0%9F%8C%BB-su-myat-noe-pwint-b686976b/" target="_blank">Su Myat Noe Pwint</a>
 - <a href="https://www.linkedin.com/in/abhijeet-kumar-23898499" target="_blank">Abhijeet Kumar</a>
