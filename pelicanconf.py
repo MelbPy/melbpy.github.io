@@ -15,6 +15,9 @@ ARTICLE_PATHS = ["articles"]
 PAGE_PATHS = ["pages"]
 THEME = "themes/melbpy"
 
+STATIC_PATHS = ["images", "extra/CNAME"]  # keep whatever's already listed
+EXTRA_PATH_METADATA = {"extra/CNAME": {"path": "CNAME"}}
+
 OUTPUT_PATH = "docs/"
 DELETE_OUTPUT_DIRECTORY = True
 INDEX_SAVE_AS = "latest.html"
