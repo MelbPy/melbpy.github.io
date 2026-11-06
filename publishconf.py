@@ -5,4 +5,4 @@ sys.path.append(os.curdir)
 
 from pelicanconf import *
 
-SITEURL = "https://melbpy.github.io"
+SITEURL = "https://melbpy.org"
