@@ -7,8 +7,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Static MelbPy website: Pelican (Markdown → HTML) plus Pagefind (static search), managed with `uv`. There are no tests or linters.
 
 - `make build`: runs Pelican into `docs/`, then Pagefind (`uv run python -m pagefind --site docs`).
-- `make serve`: builds, then serves at <http://localhost:8000> with autoreload. Autoreload only reruns Pelican, so run `make search` to refresh the search index.
-- `make clean`: deletes `docs/`. Builds never delete stale pages, so old category/tag/page HTML lingers in `docs/` and stays in the search index until you clean. Run `make clean && make build` after renaming or removing content or categories.
+- `make serve`: builds, then serves at <http://localhost:8000> with autoreload. Autoreload only reruns Pelican, and `DELETE_OUTPUT_DIRECTORY = True` wipes `docs/` (including `docs/pagefind/`) on each rebuild, so search breaks after an autoreload until you run `make search`.
+- `make publish`: same as build but with `publishconf.py`, which sets `SITEURL = "https://melbpy.github.io"` for absolute URLs.
+- `make clean`: deletes `docs/`. Rarely needed, since every Pelican build already clears the output directory.
 
 Edit `content/` and `themes/melbpy/`, never `docs/`.
 
@@ -16,7 +17,7 @@ Edit `content/` and `themes/melbpy/`, never `docs/`.
 
 **Content** (`content/`):
 
-- `articles/`: posts with `Category:` and `Tags:` metadata. Categories come only from metadata (`USE_FOLDER_AS_CATEGORY = False`).
+- `articles/`: posts (talks, plus site pages such as `contacts.md`, `melbourne.md`, `sponsors.md`) with `category` and `tags` metadata. Categories come only from metadata (`USE_FOLDER_AS_CATEGORY = False`).
 - `pages/`: `index.md` is the home page (`save_as: index.html`); `index` is removed from `DIRECT_TEMPLATES`.
 - `partials/`: ALL-CAPS Markdown files (`MENU.md`, `NEWS.md`, `SPONSORS.md`, `SMALL_PRINT.md`) rendered into every page by the `markdown_file` Jinja filter defined in `pelicanconf.py`. Pelican doesn't read them as content. The filter enables the same Markdown extensions as Pelican's reader (e.g. `{.class}` attribute lists).
 - `images/`: published as-is to `/images/`.
@@ -50,7 +51,7 @@ Edit `content/` and `themes/melbpy/`, never `docs/`.
 
 ## Content conventions (from README)
 
-- Markdown files need Pelican metadata (`Title:`, `Category:`, …) instead of a `#` heading; use `##` for subheadings.
+- Markdown files start with YAML front matter (`---` … `---`, via `pelican-yaml-metadata`) with lowercase keys (`title`, `category`, `author`, `date`, `tags: [a, b]`) instead of a `#` heading; use `##` for subheadings.
 - Local links must be absolute with `.html`, e.g. `[About](/melbourne.html)`, so they work from category/tag subdirectories.
 - Raw HTML is used for `target="_blank"` links, `<iframe>` embeds (YouTube/Google Maps; review these carefully in PRs) and `&nbsp;` spacing.
-- Deployment is planned via GitHub Pages (PR to the `MelbPy.github.io` repo); `SITEURL` is currently empty, so generated URLs are root-relative.
+- Deployment is planned via GitHub Pages (PR to the `MelbPy.github.io` repo). `pelicanconf.py` leaves `SITEURL` empty, so local builds use root-relative URLs; `make publish` sets the real one.
