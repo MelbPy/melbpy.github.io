@@ -9,6 +9,7 @@ It's the place to talk about your Python work in Melbourne.
 
 - Follow us on <a href="https://www.meetup.com/melbourne-python-user-group/" target="_blank">Meetup.com</a>, <a href="https://www.linkedin.com/company/melbpy/posts/" target="_blank">LinkedIn</a>, and <a href="https://www.youtube.com/@MelbPy" target="_blank">YouTube</a>
 - [Contact Us](/contacts.html) with inquiries, <a href="https://forms.gle/vG4H6zcYrRS16ECW9" target="_blank">Submit a Talk</a> proposal, long or short, or <a href="https://forms.gle/Lb3UFXpRHsW6drKo6" target="_blank">Get Involved</a> as a volunteer or ambassador.
+- Join the <a href="https://www.pythonaustralia.org" target="_blank">Python Australia</a> discord: _#general-vic_.
 - Browse the [Archives](/archives.html) of past talks.
 
 ## Join us at Judo Bank in the CBD

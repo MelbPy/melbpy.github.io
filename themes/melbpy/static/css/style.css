@@ -157,6 +157,12 @@ pagefind-searchbox { color-scheme: inherit; }
 }
 .menu-btn { display: none; }
 
+.line-bottom {
+  border-bottom: dotted 1px #808080;
+  margin-bottom: 0.5rem;
+  width: 80%;
+}
+
 .logo { display: inline-block; margin-top: 0.80rem; }
 .logo svg { display: block; }
 .logo-a { width: 16rem; margin: var(--v-space-small) 0 var(--v-space-small); }
