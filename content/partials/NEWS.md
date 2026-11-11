@@ -1,2 +1,2 @@
 - **Thu 12 Nov** &nbsp; FastAPI and Microservices &nbsp; <b><a class="rsvp" href="https://www.meetup.com/melbourne-python-user-group/events/316907988/" target="_blank">RSVP</a></b>
-- **Wed 16 Dec** &nbsp; Roguelikes and Time Series Data
+- **Wed 16 Dec** &nbsp; Roguelikes and Time Series Data &nbsp; <b><a class="rsvp" href="https://www.meetup.com/melbourne-python-user-group/events/317365494/" target="_blank">RSVP</a></b>
