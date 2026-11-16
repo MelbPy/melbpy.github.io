@@ -13,7 +13,7 @@
   {% endblock %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,900;1,300;1,900&family=Lora:ital@0;1&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,900;1,300;1,900&family=Lora:ital@0;1&display=swap" >
   <link rel="stylesheet" href="{{ SITEURL }}/pagefind/pagefind-component-ui.css">
   <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css">
   <link rel="icon" type="image/svg+xml" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/favicon.svg">
@@ -29,8 +29,8 @@
       <div class="controls">
         <button class="menu-btn" type="button" aria-label="Menu" aria-controls="sidebar" aria-expanded="false">☰</button>
       </div>
-      <div class="menu cat cat-uncategorised">{{ "MENU.md"|markdown_file }}</div>
-      <div class="news">{{ "NEWS.md"|markdown_file }}</div>
+      <div class="menu cat cat-uncategorised">Calendar</div>
+      <div class="news">{{ "CALENDAR.md"|markdown_file }}</div>
       <div class="v-space-large">
         <a class="logo logo-a" href="{% block logo_href %}{{ SITEURL }}/{% endblock %}" aria-label="{% block logo_label %}{{ SITENAME }} home{% endblock %}">
           {# Category-specific logo, falling back to the generic one (e.g. Uncategorised). #}
@@ -77,7 +77,7 @@
     </footer>
   </div>
 
-  <script src="{{ SITEURL }}/pagefind/pagefind-component-ui.js" type="module"></script>
-  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/menu.js"></script>
+  <script src="{{ SITEURL }}/pagefind/pagefind-component-ui.js" type="module" defer></script>
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/menu.js" defer></script>
 </body>
 </html>

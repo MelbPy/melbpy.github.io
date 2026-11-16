@@ -1,6 +1,6 @@
+- [Archives](/archives.html)
 - [Contacts](/contacts.html)
 - [Sponsors](/sponsors.html)
 - [Melbourne](/melbourne.html)
-- [Archives](/archives.html)
 - <a href="https://github.com/MelbPy/melbpy.github.io" target="_blank">Github</a>
 - [RSS Feed](/rss.xml)
